@@ -3822,3 +3822,1516 @@ Please see Output Log for details.
 [2017.06.14-00.49.24:323][811]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush2)
 [2017.06.14-00.49.24:367][811]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush2)
 [2017.06.14-00.49.25:426][865]LogEditorViewport: Clicking Background
+[2017.06.14-00.55.48:546][899]LogEditorViewport: Clicking on Actor (LMB): BP_Flipper_C (BP_Flipper)
+[2017.06.14-00.55.52:840][228]LogEditorViewport: Clicking Background
+[2017.06.14-00.55.53:458][296]LogEditorViewport: Clicking on Actor (LMB): BP_Flipper_C (BP_Flipper)
+[2017.06.14-00.55.55:007][429]LogEditorViewport: Clicking on Actor (LMB): BP_Flipper_C (BP_Flipper2)
+[2017.06.14-00.56.14:292][144]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush2)
+[2017.06.14-00.56.14:813][178]LogEditorViewport: Clicking Background
+[2017.06.14-00.56.17:402][302]LogEditorViewport: Clicking on Actor (LMB): BP_Flipper_C (BP_Flipper2)
+[2017.06.14-00.56.30:173][415]LogGeometryMode:Warning: Unable to find BoxBrush2_8 Brush(s) in new BSP
+[2017.06.14-00.56.30:173][415]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.06.14-00.56.31:507][518]LogGeometryMode:Warning: Unable to find BoxBrush_6 Brush(s) in new BSP
+[2017.06.14-00.56.31:507][518]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.06.14-00.56.31:796][538]LogEditorViewport: Clicking Background
+[2017.06.14-00.57.01:662][468]Cmd: TRANSACTION UNDO
+[2017.06.14-00.57.01:662][468]LogEditorTransaction: Undo Move Actors
+[2017.06.14-00.57.01:800][468]LogMaterial: Missing cached shader map for material M_Bumper, compiling. 
+[2017.06.14-00.57.01:814][468]LogMaterial: Missing cached shader map for material M_SimplePlastic, compiling. 
+[2017.06.14-00.57.01:997][470]Cmd: TRANSACTION UNDO
+[2017.06.14-00.57.01:997][470]LogEditorTransaction: Undo Move Actors
+[2017.06.14-00.57.02:010][470]LogGeometryMode:Warning: Unable to find 2 Vertex(s) in new BSP
+[2017.06.14-00.57.02:010][470]LogGeometryMode:Warning: Unable to resolve BoxBrush3 Brush in new BSP, see above
+[2017.06.14-00.57.02:010][470]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.06.14-00.57.02:262][470]LogMaterial: Missing cached shader map for material M_Bumper, compiling. 
+[2017.06.14-00.57.02:289][470]LogMaterial: Missing cached shader map for material M_SimplePlastic, compiling. 
+[2017.06.14-00.57.02:627][477]Cmd: TRANSACTION UNDO
+[2017.06.14-00.57.02:627][477]LogEditorTransaction: Undo Modifier [Edit]
+[2017.06.14-00.57.02:890][477]LogMaterial: Missing cached shader map for material M_Bumper, compiling. 
+[2017.06.14-00.57.02:919][477]LogMaterial: Missing cached shader map for material M_SimplePlastic, compiling. 
+[2017.06.14-00.57.03:300][486]Cmd: TRANSACTION UNDO
+[2017.06.14-00.57.03:300][486]LogEditorTransaction: Undo Modifier [Edit]
+[2017.06.14-00.57.03:539][486]LogMaterial: Missing cached shader map for material M_Bumper, compiling. 
+[2017.06.14-00.57.03:563][486]LogMaterial: Missing cached shader map for material M_SimplePlastic, compiling. 
+[2017.06.14-00.57.04:234][509]Cmd: TRANSACTION UNDO
+[2017.06.14-00.57.04:234][509]LogEditorTransaction: Undo Select Brush Surface
+[2017.06.14-00.57.04:447][509]LogMaterial: Missing cached shader map for material M_Bumper, compiling. 
+[2017.06.14-00.57.04:471][509]LogMaterial: Missing cached shader map for material M_SimplePlastic, compiling. 
+[2017.06.14-00.57.05:851][570]Cmd: TRANSACTION UNDO
+[2017.06.14-00.57.05:851][570]LogEditorTransaction: Undo Clicking Background
+[2017.06.14-00.57.06:114][570]LogMaterial: Missing cached shader map for material M_Bumper, compiling. 
+[2017.06.14-00.57.06:136][570]LogMaterial: Missing cached shader map for material M_SimplePlastic, compiling. 
+[2017.06.14-00.57.07:175][602]Cmd: TRANSACTION UNDO
+[2017.06.14-00.57.07:175][602]LogEditorTransaction: Undo Select Brush Surface
+[2017.06.14-00.57.07:446][602]LogMaterial: Missing cached shader map for material M_Bumper, compiling. 
+[2017.06.14-00.57.07:472][602]LogMaterial: Missing cached shader map for material M_SimplePlastic, compiling. 
+[2017.06.14-00.57.08:115][624]Cmd: TRANSACTION UNDO
+[2017.06.14-00.57.08:115][624]LogEditorTransaction: Undo Modifier [Edit]
+[2017.06.14-00.57.08:386][624]LogMaterial: Missing cached shader map for material M_Bumper, compiling. 
+[2017.06.14-00.57.08:410][624]LogMaterial: Missing cached shader map for material M_SimplePlastic, compiling. 
+[2017.06.14-00.57.09:668][668]Cmd: TRANSACTION UNDO
+[2017.06.14-00.57.09:668][668]LogEditorTransaction: Undo Modifier [Edit]
+[2017.06.14-00.57.09:951][668]LogMaterial: Missing cached shader map for material M_Bumper, compiling. 
+[2017.06.14-00.57.09:979][668]LogMaterial: Missing cached shader map for material M_SimplePlastic, compiling. 
+[2017.06.14-00.57.10:035][668]Cmd: TRANSACTION UNDO
+[2017.06.14-00.57.10:035][668]LogEditorTransaction: Undo Select Surfaces
+[2017.06.14-00.57.10:291][668]LogMaterial: Missing cached shader map for material M_Bumper, compiling. 
+[2017.06.14-00.57.10:317][668]LogMaterial: Missing cached shader map for material M_SimplePlastic, compiling. 
+[2017.06.14-00.57.10:367][668]Cmd: TRANSACTION UNDO
+[2017.06.14-00.57.10:367][668]LogEditorTransaction: Undo Move Actors
+[2017.06.14-00.57.10:647][668]LogMaterial: Missing cached shader map for material M_Bumper, compiling. 
+[2017.06.14-00.57.10:670][668]LogMaterial: Missing cached shader map for material M_SimplePlastic, compiling. 
+[2017.06.14-00.57.12:115][723]LogGeometryMode:Warning: Unable to find BoxBrush2_8 Brush(s) in new BSP
+[2017.06.14-00.57.12:115][723]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.06.14-00.57.12:174][723]MaterialEditorStats: Info Base pass shader: 84 instructions
+[2017.06.14-00.57.12:174][723]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.06.14-00.57.12:174][723]MaterialEditorStats: Info Texture samplers: 2/16
+[2017.06.14-00.57.12:174][723]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.06.14-00.57.13:093][758]MaterialEditorStats: Info Base pass shader: 80 instructions
+[2017.06.14-00.57.13:093][758]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.14-00.57.13:093][758]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.06.14-00.57.14:482][871]LogEditorViewport: Clicking Background
+[2017.06.14-00.57.29:974][747]LogGeometryMode:Warning: Unable to find BoxBrush2_8 Brush(s) in new BSP
+[2017.06.14-00.57.29:974][747]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.06.14-00.57.32:193][906]Cmd: SELECT NONE
+[2017.06.14-00.58.07:269][493]Cmd: ACTOR MIRROR X=-1
+[2017.06.14-00.58.13:222][944]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush4)
+[2017.06.14-00.58.14:741][ 63]LogEditorViewport: Clicking Background
+[2017.06.14-00.58.17:459][314]LogEditorViewport: Clicking on Actor (LMB): BP_Flipper_C (BP_Flipper)
+[2017.06.14-00.58.22:033][668]LogEditorViewport: Clicking Background
+[2017.06.14-00.58.48:076][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="E:/unreal/Pinball/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.06.14-00.58.48:239][872]LogSavePackage: Save=162.87ms
+[2017.06.14-00.58.48:239][872]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/Untitled_1_Auto136B1067D4D6B7C51EDD7899A92085F78.tmp' to 'E:/unreal/Pinball/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2017.06.14-00.58.48:240][872]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
+[2017.06.14-00.58.48:242][872]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.193
+[2017.06.14-00.58.48:242][872]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.193
+[2017.06.14-00.58.53:988][  1]LogEditorViewport: Clicking on Actor (LMB): BP_Flipper_C (BP_Flipper)
+[2017.06.14-00.58.59:054][378]LogEditorViewport: Clicking on Actor (LMB): BP_Flipper_C (BP_Flipper2)
+[2017.06.14-00.59.05:274][857]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush)
+[2017.06.14-00.59.10:040][244]LogEditorViewport: Clicking Background
+[2017.06.14-00.59.17:246][863]LogGeometryMode:Warning: Unable to find BoxBrush4 Brush(s) in new BSP
+[2017.06.14-00.59.17:246][863]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.06.14-00.59.23:454][357]LogEditorViewport: Clicking on Actor (LMB): BP_Flipper_C (BP_Flipper)
+[2017.06.14-00.59.25:991][562]LogEditorViewport: Clicking Background
+[2017.06.14-00.59.59:708][236]LogEditorViewport: Clicking on Actor (LMB): BP_Flipper_C (BP_Flipper)
+[2017.06.14-01.00.08:378][822]LogEditorViewport: Clicking on Actor (LMB): BP_Flipper_C (BP_Flipper3)
+[2017.06.14-01.00.15:273][103]LogEditorViewport: Clicking Background
+[2017.06.14-01.00.16:124][179]LogEditorViewport: Clicking on Actor (LMB): BP_Flipper_C (BP_Flipper3)
+[2017.06.14-01.02.02:432][ 50]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.06.14-01.04.19:400][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2017.06.14-01.04.19:430][238]LogSavePackage: Save=27.27ms
+[2017.06.14-01.04.19:430][238]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_PlayerController3606C2DB48E312640F413FB01B585FCC.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset'
+[2017.06.14-01.04.19:433][238]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset
+[2017.06.14-01.07.10:237][293]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.06.14-01.07.10:464][310]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Pinball
+[2017.06.14-01.07.10:465][310]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.06.14-01.07.10:465][310]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.16
+[2017.06.14-01.07.10:465][310]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.06.14-01.07.10:473][311]LogTemp: BranchPath = DESKTOP-A51IF7R/C/Program Files/Epic Games/UE_4.16/Engine/Binaries --- GameBranchPath = DESKTOP-A51IF7R/C/Program Files/Epic Games/UE_4.16/Engine/Binaries
+[2017.06.14-01.07.10:500][314]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Bruno\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.06.14-01.08.48:730][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="E:/unreal/Pinball/Saved/Autosaves/Temp/Untitled_1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.06.14-01.08.48:883][551]LogSavePackage: Save=151.78ms
+[2017.06.14-01.08.48:883][551]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/Untitled_1_Auto2876E69A44DE5841DBDA8748859F28399.tmp' to 'E:/unreal/Pinball/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2017.06.14-01.08.48:884][551]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Saved/Autosaves/Temp/Untitled_1_Auto2.umap
+[2017.06.14-01.08.48:886][551]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.182
+[2017.06.14-01.08.48:886][551]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.182
+[2017.06.14-01.08.48:888][551]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerController] ([1] browsable assets)...
+[2017.06.14-01.08.48:888][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerController]
+[2017.06.14-01.08.48:888][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="E:/unreal/Pinball/Saved/Autosaves/Game/Blueprints/BP_PlayerController_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.06.14-01.08.48:928][551]LogSavePackage: Save=30.50ms
+[2017.06.14-01.08.48:928][551]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_PlayerController_Auto29A52B81E4A6763948D7DD5B15EFDEEE5.tmp' to 'E:/unreal/Pinball/Saved/Autosaves/Game/Blueprints/BP_PlayerController_Auto2.uasset'
+[2017.06.14-01.08.48:928][551]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Saved/Autosaves/Game/Blueprints/BP_PlayerController_Auto2.uasset
+[2017.06.14-01.08.48:928][551]LogFileHelpers: Auto-saving content packages took 0.041
+[2017.06.14-01.10.21:425][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2017.06.14-01.10.21:465][492]LogSavePackage: Save=37.49ms
+[2017.06.14-01.10.21:465][492]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_PlayerController418082134137D0D627CBE59D005AFE1C.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset'
+[2017.06.14-01.10.21:472][492]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset
+[2017.06.14-01.10.30:916][679]BlueprintLog: New page: Compile BP_PlayerController
+[2017.06.14-01.10.35:241][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2017.06.14-01.10.35:289][891]LogSavePackage: Save=45.80ms
+[2017.06.14-01.10.35:289][891]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_PlayerController970AD1214AF505CD1AE5BCA17DC6A684.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset'
+[2017.06.14-01.10.35:290][891]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset
+[2017.06.14-01.11.15:930][416]BlueprintLog: New page: Compile BP_PlayerController
+[2017.06.14-01.11.16:504][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2017.06.14-01.11.16:552][460]LogSavePackage: Save=44.61ms
+[2017.06.14-01.11.16:552][460]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_PlayerControllerAA952D3E4267A5A6A8A43294B47F0318.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset'
+[2017.06.14-01.11.16:553][460]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset
+[2017.06.14-01.11.18:838][667]LogEditorViewport: Clicking Background
+[2017.06.14-01.11.51:120][762]LogMetaData: Removing '/Game/Blueprints/BP_GameMode.BP_GameMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2017.06.14-01.11.51:120][762]LogMetaData: Removing '/Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2017.06.14-01.11.51:120][762]LogMetaData: Removing '/Game/Blueprints/BP_GameMode.BP_GameMode_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2017.06.14-01.11.51:120][762]LogMetaData: Removing '/Game/Blueprints/BP_GameMode.BP_GameMode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2017.06.14-01.11.51:120][762]LogMetaData: Removing '/Game/Blueprints/BP_GameMode.BP_GameMode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2017.06.14-01.11.51:147][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="E:/unreal/Pinball/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2017.06.14-01.11.51:160][762]LogSavePackage: Save=11.42ms
+[2017.06.14-01.11.51:160][762]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_GameMode32ED33974F001BA9015298A9974A99C0.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_GameMode.uasset'
+[2017.06.14-01.11.51:162][762]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_GameMode.uasset
+[2017.06.14-01.12.07:083][364]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.06.14-01.12.13:622][664]BlueprintLog: New page: Compile BP_GameMode
+[2017.06.14-01.12.14:140][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="E:/unreal/Pinball/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2017.06.14-01.12.14:160][692]LogSavePackage: Save=11.66ms
+[2017.06.14-01.12.14:160][692]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_GameMode7A15F6FF4702BBF8BD2BDD8FA5F667CA.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_GameMode.uasset'
+[2017.06.14-01.12.14:162][692]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_GameMode.uasset
+[2017.06.14-01.12.26:165][239]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.06.14-01.12.26:227][240]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Pinball
+[2017.06.14-01.12.26:227][240]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.06.14-01.12.26:227][240]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.16
+[2017.06.14-01.12.26:227][240]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.06.14-01.12.26:246][241]LogTemp: BranchPath = DESKTOP-A51IF7R/C/Program Files/Epic Games/UE_4.16/Engine/Binaries --- GameBranchPath = DESKTOP-A51IF7R/C/Program Files/Epic Games/UE_4.16/Engine/Binaries
+[2017.06.14-01.12.26:263][242]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Bruno\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.06.14-01.12.55:756][344]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.06.14-01.14.01:387][481]BlueprintLog: New page: Compile BP_PlayerController
+[2017.06.14-01.14.02:254][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2017.06.14-01.14.02:307][561]LogSavePackage: Save=44.00ms
+[2017.06.14-01.14.02:307][561]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_PlayerControllerA05BFFD147220FF8C9C5EE9F932278DE.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset'
+[2017.06.14-01.14.02:309][561]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset
+[2017.06.14-01.14.03:778][715]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-01.14.03:796][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-01.14.03:796][715]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 7:14:03 PM)
+[2017.06.14-01.14.03:797][715]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-01.14.03:805][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008695s)
+[2017.06.14-01.14.03:806][715]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-01.14.03:807][715]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2017.06.14-01.14.03:807][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.010007s)
+[2017.06.14-01.14.03:844][715]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-01.14.03:856][715]LogInit: FAudioDevice initialized.
+[2017.06.14-01.14.03:891][715]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-01.14.03:896][715]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-22.14.03
+[2017.06.14-01.14.03:896][715]LogWorld: Bringing up level for play took: 0.002493
+[2017.06.14-01.14.03:901][715]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.79
+[2017.06.14-01.15.09:439][616]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-01.15.09:456][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-01.15.09:457][616]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 7:15:09 PM)
+[2017.06.14-01.15.09:457][616]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-01.15.09:463][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005859s)
+[2017.06.14-01.15.09:463][616]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-01.15.09:464][616]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2017.06.14-01.15.09:464][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006994s)
+[2017.06.14-01.15.09:501][616]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-01.15.09:513][616]LogInit: FAudioDevice initialized.
+[2017.06.14-01.15.09:556][616]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-01.15.09:559][616]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-22.15.09
+[2017.06.14-01.15.09:560][616]LogWorld: Bringing up level for play took: 0.002216
+[2017.06.14-01.15.09:560][616]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.06.14-01.15.09:563][616]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.453
+[2017.06.14-01.15.15:019][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Flipper" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset" SILENT=true
+[2017.06.14-01.15.15:089][183]LogSavePackage: Save=61.71ms
+[2017.06.14-01.15.15:089][183]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_Flipper541BA96D49C54B4F3C6F0198F5EAC4DE.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset'
+[2017.06.14-01.15.15:091][183]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset
+[2017.06.14-01.15.16:057][280]BlueprintLog: New page: Compile BP_Flipper
+[2017.06.14-01.15.16:590][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Flipper" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset" SILENT=true
+[2017.06.14-01.15.16:650][282]LogSavePackage: Save=57.19ms
+[2017.06.14-01.15.16:650][282]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_Flipper68A75B6747948760CE3A06A7FF273E63.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset'
+[2017.06.14-01.15.16:651][282]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset
+[2017.06.14-01.15.17:170][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Flipper" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset" SILENT=true
+[2017.06.14-01.15.17:230][333]LogSavePackage: Save=57.53ms
+[2017.06.14-01.15.17:230][333]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_Flipper6E7999F3437349FD38C64882ADCAB80E.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset'
+[2017.06.14-01.15.17:231][333]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset
+[2017.06.14-01.15.17:974][404]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-01.15.17:990][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-01.15.17:991][404]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 7:15:17 PM)
+[2017.06.14-01.15.17:991][404]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-01.15.17:996][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005508s)
+[2017.06.14-01.15.17:997][404]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-01.15.17:997][404]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2017.06.14-01.15.17:997][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006444s)
+[2017.06.14-01.15.18:034][404]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-01.15.18:045][404]LogInit: FAudioDevice initialized.
+[2017.06.14-01.15.18:097][404]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-01.15.18:104][404]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-22.15.18
+[2017.06.14-01.15.18:104][404]LogWorld: Bringing up level for play took: 0.004044
+[2017.06.14-01.15.18:105][404]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.06.14-01.15.18:109][404]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.999
+[2017.06.14-01.17.41:766][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2017.06.14-01.17.41:832][550]LogSavePackage: Save=62.09ms
+[2017.06.14-01.17.41:832][550]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_PlayerController8733C91F4265B779FF2A348322BB2342.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset'
+[2017.06.14-01.17.41:835][550]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset
+[2017.06.14-01.17.41:958][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2017.06.14-01.17.42:024][562]LogSavePackage: Save=63.37ms
+[2017.06.14-01.17.42:024][562]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_PlayerController733F3FA64FEF78CE2B104F98A7B08F18.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset'
+[2017.06.14-01.17.42:025][562]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset
+[2017.06.14-01.17.42:890][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2017.06.14-01.17.42:956][646]LogSavePackage: Save=64.04ms
+[2017.06.14-01.17.42:956][646]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_PlayerControllerAB7759F84EFC80C0B9A812B554BF407B.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset'
+[2017.06.14-01.17.42:957][646]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset
+[2017.06.14-01.17.43:384][690]BlueprintLog: New page: Compile BP_PlayerController
+[2017.06.14-01.17.44:032][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2017.06.14-01.17.44:105][714]LogSavePackage: Save=69.80ms
+[2017.06.14-01.17.44:105][714]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_PlayerController6014F1CD4FB712A2A5B8019F5410AD5E.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset'
+[2017.06.14-01.17.44:106][714]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset
+[2017.06.14-01.17.45:591][864]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-01.17.45:612][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-01.17.45:612][864]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 7:17:45 PM)
+[2017.06.14-01.17.45:612][864]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-01.17.45:620][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007234s)
+[2017.06.14-01.17.45:620][864]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-01.17.45:621][864]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2017.06.14-01.17.45:621][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.008462s)
+[2017.06.14-01.17.45:661][864]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-01.17.45:674][864]LogInit: FAudioDevice initialized.
+[2017.06.14-01.17.45:707][864]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-01.17.45:711][864]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-22.17.45
+[2017.06.14-01.17.45:711][864]LogWorld: Bringing up level for play took: 0.002274
+[2017.06.14-01.17.45:712][864]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.602
+[2017.06.14-01.19.13:056][429]BlueprintLog: New page: Compile BP_Flipper
+[2017.06.14-01.19.14:294][518]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-01.19.14:315][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-01.19.14:315][518]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 7:19:14 PM)
+[2017.06.14-01.19.14:315][518]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-01.19.14:321][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005424s)
+[2017.06.14-01.19.14:321][518]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-01.19.14:321][518]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2017.06.14-01.19.14:322][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006431s)
+[2017.06.14-01.19.14:360][518]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-01.19.14:372][518]LogInit: FAudioDevice initialized.
+[2017.06.14-01.19.14:420][518]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-01.19.14:424][518]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-22.19.14
+[2017.06.14-01.19.14:424][518]LogWorld: Bringing up level for play took: 0.002007
+[2017.06.14-01.19.14:424][518]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.06.14-01.19.14:427][518]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.683
+[2017.06.14-01.19.23:818][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Flipper" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset" SILENT=true
+[2017.06.14-01.19.23:876][512]LogSavePackage: Save=55.17ms
+[2017.06.14-01.19.23:876][512]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_Flipper0DA02D694C98E72A56581EAB27074968.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset'
+[2017.06.14-01.19.23:878][512]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset
+[2017.06.14-01.19.24:822][611]BlueprintLog: New page: Compile BP_Flipper
+[2017.06.14-01.19.25:973][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Flipper" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset" SILENT=true
+[2017.06.14-01.19.26:031][692]LogSavePackage: Save=54.67ms
+[2017.06.14-01.19.26:031][692]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_FlipperE5E90D1D4FB69268CC7171AF6B5A77D6.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset'
+[2017.06.14-01.19.26:032][692]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset
+[2017.06.14-01.19.27:010][787]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-01.19.27:026][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-01.19.27:026][787]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 7:19:27 PM)
+[2017.06.14-01.19.27:027][787]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-01.19.27:032][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005559s)
+[2017.06.14-01.19.27:033][787]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-01.19.27:033][787]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2017.06.14-01.19.27:033][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006554s)
+[2017.06.14-01.19.27:070][787]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-01.19.27:082][787]LogInit: FAudioDevice initialized.
+[2017.06.14-01.19.27:126][787]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-01.19.27:130][787]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-22.19.27
+[2017.06.14-01.19.27:130][787]LogWorld: Bringing up level for play took: 0.002293
+[2017.06.14-01.19.27:131][787]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.06.14-01.19.27:134][787]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.023
+[2017.06.14-01.20.27:272][690]LogEditorViewport: Clicking on Actor (LMB): BP_Flipper_C (BP_Flipper)
+[2017.06.14-01.20.30:584][957]LogEditorViewport: Clicking on Actor (LMB): BP_Flipper_C (BP_Flipper2)
+[2017.06.14-01.20.35:272][305]LogEditorViewport: Clicking Background
+[2017.06.14-01.20.41:905][823]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-01.20.41:922][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-01.20.41:922][823]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 7:20:41 PM)
+[2017.06.14-01.20.41:922][823]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-01.20.41:928][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005628s)
+[2017.06.14-01.20.41:929][823]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-01.20.41:929][823]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2017.06.14-01.20.41:929][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006650s)
+[2017.06.14-01.20.41:966][823]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-01.20.41:977][823]LogInit: FAudioDevice initialized.
+[2017.06.14-01.20.42:012][823]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-01.20.42:016][823]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-22.20.42
+[2017.06.14-01.20.42:016][823]LogWorld: Bringing up level for play took: 0.002144
+[2017.06.14-01.20.42:018][823]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.907
+[2017.06.14-01.21.05:950][493]BlueprintLog: New page: Compile BP_Flipper
+[2017.06.14-01.21.06:598][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Flipper" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset" SILENT=true
+[2017.06.14-01.21.06:674][522]LogSavePackage: Save=66.48ms
+[2017.06.14-01.21.06:674][522]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_FlipperA6E7DED74DBF2493549C4AB4FF04652C.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset'
+[2017.06.14-01.21.06:676][522]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset
+[2017.06.14-01.21.08:405][691]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-01.21.08:423][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-01.21.08:423][691]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 7:21:08 PM)
+[2017.06.14-01.21.08:424][691]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-01.21.08:430][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006200s)
+[2017.06.14-01.21.08:431][691]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-01.21.08:431][691]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2017.06.14-01.21.08:431][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007286s)
+[2017.06.14-01.21.08:489][691]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-01.21.08:503][691]LogInit: FAudioDevice initialized.
+[2017.06.14-01.21.08:536][691]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-01.21.08:540][691]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-22.21.08
+[2017.06.14-01.21.08:540][691]LogWorld: Bringing up level for play took: 0.002310
+[2017.06.14-01.21.08:541][691]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.569
+[2017.06.14-01.21.44:846][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="E:/unreal/Pinball/Saved/Autosaves/Temp/Untitled_1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.06.14-01.21.45:020][ 66]LogSavePackage: Save=173.29ms
+[2017.06.14-01.21.45:022][ 66]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/Untitled_1_Auto319B325414A20AC7DECF16C8E33B13909.tmp' to 'E:/unreal/Pinball/Saved/Autosaves/Temp/Untitled_1_Auto3.umap'
+[2017.06.14-01.21.45:023][ 66]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Saved/Autosaves/Temp/Untitled_1_Auto3.umap
+[2017.06.14-01.21.45:028][ 66]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.209
+[2017.06.14-01.21.45:028][ 66]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.209
+[2017.06.14-01.23.06:329][752]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\unreal\Assets\PinballAssets\PinballAssets\SM_Plunger.FBX)
+[2017.06.14-01.23.06:336][752]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.06.14-01.23.06:336][752]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.06.14-01.23.06:336][752]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.06.14-01.23.06:336][752]LogFbx: ItemName: Model, ItemCount : 1
+[2017.06.14-01.23.06:336][752]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.06.14-01.23.06:336][752]LogFbx: ItemName: Material, ItemCount : 1
+[2017.06.14-01.23.06:336][752]LogFbx: ItemName: Texture, ItemCount : 1
+[2017.06.14-01.23.06:336][752]LogFbx: ItemName: Video, ItemCount : 1
+[2017.06.14-01.23.06:341][752]LogFbx: Loading FBX Scene from E:\unreal\Assets\PinballAssets\PinballAssets\SM_Plunger.FBX
+[2017.06.14-01.23.06:353][752]LogFbx: FBX Scene Loaded Succesfully
+[2017.06.14-01.23.31:114][752]LogFbx: Loading FBX Scene from E:\unreal\Assets\PinballAssets\PinballAssets\SM_Plunger.FBX
+[2017.06.14-01.23.31:123][752]LogFbx: FBX Scene Loaded Succesfully
+[2017.06.14-01.23.31:132][752]LogStaticMesh: Building static mesh SM_Plunger...
+[2017.06.14-01.23.31:157][752]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/SM_Plunger.SM_Plunger
+[2017.06.14-01.23.31:177][752]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.06.14-01.23.40:375][432]LogMaterial: Missing cached shader map for material M_Bumper, compiling. 
+[2017.06.14-01.23.40:421][432]LogMaterial: Missing cached shader map for material M_Bumper, compiling. 
+[2017.06.14-01.23.40:444][432]LogMaterial: Missing cached shader map for material M_Bumper, compiling. 
+[2017.06.14-01.23.40:508][432]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Bumper, compiling. 
+[2017.06.14-01.23.41:523][432]TextureStreamingBuild:Display: Compiling optional shaders took 1.024 seconds.
+[2017.06.14-01.23.45:417][505]LogMaterial: Missing cached shader map for material M_SimplePlastic, compiling. 
+[2017.06.14-01.23.45:464][505]LogMaterial: Missing cached shader map for material M_SimplePlastic, compiling. 
+[2017.06.14-01.23.45:491][505]LogMaterial: Missing cached shader map for material M_SimplePlastic, compiling. 
+[2017.06.14-01.23.45:562][505]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SimplePlastic, compiling. 
+[2017.06.14-01.23.46:223][505]TextureStreamingBuild:Display: Compiling optional shaders took 0.669 seconds.
+[2017.06.14-01.24.21:062][196]LogEditorViewport: Clicking Background
+[2017.06.14-01.25.10:751][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Plunger" FILE="E:/unreal/Pinball/Content/Assets/SM_Plunger.uasset" SILENT=true
+[2017.06.14-01.25.10:768][407]LogSavePackage: Save=15.92ms
+[2017.06.14-01.25.10:768][407]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/SM_PlungerE87DC0AF47B6F9EDAA8195AD4E2FCBEE.tmp' to 'E:/unreal/Pinball/Content/Assets/SM_Plunger.uasset'
+[2017.06.14-01.25.10:771][407]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Assets/SM_Plunger.uasset
+[2017.06.14-01.26.09:794][548]LogEditorViewport: Clicking Background
+[2017.06.14-01.26.56:805][ 21]LogEditorViewport: Clicking on Actor (LMB): BP_Ball_C (BP_Ball)
+[2017.06.14-01.27.05:089][702]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.06.14-01.27.16:545][678]LogEditorViewport: Clicking Background
+[2017.06.14-01.27.37:282][364]LogEditorViewport: Clicking Background
+[2017.06.14-01.27.43:693][907]LogGeometryMode:Warning: Unable to find BoxBrush_6 Brush(s) in new BSP
+[2017.06.14-01.27.43:693][907]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.06.14-01.27.49:120][350]LogEditorViewport: Clicking Background
+[2017.06.14-01.28.00:688][934]Cmd: TRANSACTION UNDO
+[2017.06.14-01.28.00:688][934]LogEditorTransaction: Undo Move Actors
+[2017.06.14-01.28.08:654][609]Cmd: TRANSACTION UNDO
+[2017.06.14-01.28.08:654][609]LogEditorTransaction: Undo Move Actors
+[2017.06.14-01.28.09:299][631]Cmd: TRANSACTION UNDO
+[2017.06.14-01.28.09:299][631]LogEditorTransaction: Undo Move Actors
+[2017.06.14-01.28.11:718][816]Cmd: TRANSACTION UNDO
+[2017.06.14-01.28.11:718][816]LogEditorTransaction: Undo Move Actors
+[2017.06.14-01.28.12:542][862]Cmd: TRANSACTION UNDO
+[2017.06.14-01.28.12:542][862]LogEditorTransaction: Undo Move Actors
+[2017.06.14-01.28.12:552][862]LogActorComponent: ~FComponentReregisterContext: (/Temp/Untitled_1.Untitled_1:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2017.06.14-01.28.12:555][862]LogActorComponent: RegisterComponentWithWorld: (/Temp/Untitled_1.Untitled_1:PersistentLevel.BoxBrush5_12.BrushComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.06.14-01.28.12:888][867]Cmd: TRANSACTION UNDO
+[2017.06.14-01.28.12:888][867]LogEditorTransaction: Undo Select Brush Surface
+[2017.06.14-01.29.06:076][235]LogEditorViewport: Clicking Background
+[2017.06.14-01.29.09:226][454]LogEditorViewport: Clicking Background
+[2017.06.14-01.29.10:613][582]LogEditorViewport: Clicking Background
+[2017.06.14-01.29.14:429][903]LogEditorViewport: Clicking Background
+[2017.06.14-01.29.25:725][687]LogEditorViewport: Clicking Background
+[2017.06.14-01.29.27:418][844]LogEditorViewport: Clicking Background
+[2017.06.14-01.29.35:950][541]LogGeometryMode:Warning: Unable to find BoxBrush_6 Brush(s) in new BSP
+[2017.06.14-01.29.35:950][541]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.06.14-01.29.38:315][702]LogEditorViewport: Clicking Background
+[2017.06.14-01.29.46:573][409]LogGeometryMode:Warning: Unable to find BoxBrush_6 Brush(s) in new BSP
+[2017.06.14-01.29.46:573][409]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.06.14-01.29.49:852][632]LogGeometryMode:Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2017.06.14-01.29.49:852][632]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.06.14-01.30.02:641][419]LogEditorViewport: Clicking Background
+[2017.06.14-01.30.12:412][148]LogEditorViewport: Clicking Background
+[2017.06.14-01.31.05:493][897]Cmd: TRANSACTION UNDO
+[2017.06.14-01.31.05:493][897]LogEditorTransaction: Undo Move Actors
+[2017.06.14-01.31.05:502][897]LogGeometryMode:Warning: Unable to find 1 Poly(s) in new BSP
+[2017.06.14-01.31.05:502][897]LogGeometryMode:Warning: Unable to resolve BoxBrush5 Brush in new BSP, see above
+[2017.06.14-01.31.05:502][897]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.06.14-01.31.07:120][ 18]Cmd: TRANSACTION UNDO
+[2017.06.14-01.31.07:120][ 18]LogEditorTransaction: Undo Move Actors
+[2017.06.14-01.31.07:131][ 18]LogGeometryMode:Warning: Unable to find 1 Poly(s) in new BSP
+[2017.06.14-01.31.07:131][ 18]LogGeometryMode:Warning: Unable to resolve BoxBrush5 Brush in new BSP, see above
+[2017.06.14-01.31.07:131][ 18]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.06.14-01.31.17:853][360]LogGeometryMode:Warning: Unable to find BoxBrush_6 Brush(s) in new BSP
+[2017.06.14-01.31.17:853][360]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.06.14-01.31.25:449][950]LogGeometryMode:Warning: Unable to find BoxBrush2_8 Brush(s) in new BSP
+[2017.06.14-01.31.25:449][950]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.06.14-01.31.27:123][ 92]Cmd: SELECT NONE
+[2017.06.14-01.31.31:254][451]Cmd: DELETE
+[2017.06.14-01.31.31:255][451]LogGeometryMode:Warning: Unable to find 1 Vertex(s) in new BSP
+[2017.06.14-01.31.31:255][451]LogGeometryMode:Warning: Unable to resolve BoxBrush5 Brush in new BSP, see above
+[2017.06.14-01.31.31:255][451]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.06.14-01.31.33:906][691]Cmd: DELETE
+[2017.06.14-01.31.33:907][691]LogGeometryMode:Warning: Unable to find 1 Vertex(s) in new BSP
+[2017.06.14-01.31.33:907][691]LogGeometryMode:Warning: Unable to resolve BoxBrush5 Brush in new BSP, see above
+[2017.06.14-01.31.33:907][691]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.06.14-01.31.35:127][797]LogGeometryMode:Warning: Unable to find BoxBrush2_8 Brush(s) in new BSP
+[2017.06.14-01.31.35:127][797]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.06.14-01.31.36:378][892]LogEditorViewport: Clicking Background
+[2017.06.14-01.32.04:737][482]LogEditorViewport: Clicking Background
+[2017.06.14-01.32.30:950][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="E:/unreal/Pinball/Saved/Autosaves/Temp/Untitled_1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.06.14-01.32.31:171][744]LogSavePackage: Save=220.44ms
+[2017.06.14-01.32.31:171][744]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/Untitled_1_Auto4071E36394CD41B86701E0FBC94309D6A.tmp' to 'E:/unreal/Pinball/Saved/Autosaves/Temp/Untitled_1_Auto4.umap'
+[2017.06.14-01.32.31:172][744]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Saved/Autosaves/Temp/Untitled_1_Auto4.umap
+[2017.06.14-01.32.31:173][744]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.256
+[2017.06.14-01.32.31:173][744]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.256
+[2017.06.14-01.32.31:175][744]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/M_Bumper] ([1] browsable assets)...
+[2017.06.14-01.32.31:194][744]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/M_Bumper.M_Bumper]
+[2017.06.14-01.32.31:194][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M_Bumper]
+[2017.06.14-01.32.31:194][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_Bumper" FILE="E:/unreal/Pinball/Saved/Autosaves/Game/Assets/M_Bumper_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2017.06.14-01.32.31:220][744]LogSavePackage: Save=19.00ms
+[2017.06.14-01.32.31:220][744]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/M_Bumper_Auto4DB0F06624356A71A7C3BB38EC502161E.tmp' to 'E:/unreal/Pinball/Saved/Autosaves/Game/Assets/M_Bumper_Auto4.uasset'
+[2017.06.14-01.32.31:221][744]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Saved/Autosaves/Game/Assets/M_Bumper_Auto4.uasset
+[2017.06.14-01.32.31:221][744]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/M_SimplePlastic] ([1] browsable assets)...
+[2017.06.14-01.32.31:238][744]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/M_SimplePlastic.M_SimplePlastic]
+[2017.06.14-01.32.31:238][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M_SimplePlastic]
+[2017.06.14-01.32.31:238][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_SimplePlastic" FILE="E:/unreal/Pinball/Saved/Autosaves/Game/Assets/M_SimplePlastic_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2017.06.14-01.32.31:261][744]LogSavePackage: Save=15.67ms
+[2017.06.14-01.32.31:261][744]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/M_SimplePlastic_Auto411EDEB8E4129900AC7BECFA8724E881A.tmp' to 'E:/unreal/Pinball/Saved/Autosaves/Game/Assets/M_SimplePlastic_Auto4.uasset'
+[2017.06.14-01.32.31:261][744]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Saved/Autosaves/Game/Assets/M_SimplePlastic_Auto4.uasset
+[2017.06.14-01.32.31:261][744]LogFileHelpers: Auto-saving content packages took 0.087
+[2017.06.14-01.33.23:454][ 55]LogGeometryMode:Warning: Unable to find BoxBrush_6 Brush(s) in new BSP
+[2017.06.14-01.33.23:454][ 55]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.06.14-01.33.24:660][161]LogEditorViewport: Clicking Background
+[2017.06.14-01.42.35:203][992]LogEditorTransaction: Undo Rename Component Variable
+[2017.06.14-01.42.35:467][  2]LogEditorTransaction: Undo Make New Scene Root
+[2017.06.14-01.42.35:747][ 12]LogEditorTransaction: Undo Add Component
+[2017.06.14-01.42.36:279][ 55]LogEditorTransaction: Undo Mouse Drag
+[2017.06.14-01.42.37:727][211]LogEditorTransaction: Undo Mouse Drag
+[2017.06.14-01.42.37:955][222]LogEditorTransaction: Undo Add Key(s)
+[2017.06.14-01.42.38:154][228]LogEditorTransaction: Undo Select Interpolation Mode
+[2017.06.14-01.42.38:360][235]LogEditorTransaction: Undo Select Interpolation Mode
+[2017.06.14-01.43.42:062][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Plunger" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset" SILENT=true
+[2017.06.14-01.43.42:090][504]LogSavePackage: Save=26.15ms
+[2017.06.14-01.43.42:090][504]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_Plunger61BACDCF4AB85DEB346E5FA42915CA5B.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset'
+[2017.06.14-01.43.42:096][504]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset
+[2017.06.14-01.44.13:009][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="E:/unreal/Pinball/Saved/Autosaves/Temp/Untitled_1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.06.14-01.44.13:269][333]LogSavePackage: Save=259.11ms
+[2017.06.14-01.44.13:269][333]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/Untitled_1_Auto5AD046D2543731B8CB5093692013CE10D.tmp' to 'E:/unreal/Pinball/Saved/Autosaves/Temp/Untitled_1_Auto5.umap'
+[2017.06.14-01.44.13:270][333]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Saved/Autosaves/Temp/Untitled_1_Auto5.umap
+[2017.06.14-01.44.13:273][333]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.303
+[2017.06.14-01.44.13:273][333]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.303
+[2017.06.14-01.44.49:163][598]BlueprintLog: New page: Compile BP_Plunger
+[2017.06.14-01.44.50:152][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Plunger" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset" SILENT=true
+[2017.06.14-01.44.50:185][657]LogSavePackage: Save=25.03ms
+[2017.06.14-01.44.50:185][657]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_PlungerBB3EA63048F27A9E0C0E589803018A65.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset'
+[2017.06.14-01.44.50:186][657]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset
+[2017.06.14-01.45.49:744][232]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.06.14-01.46.08:385][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Plunger" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset" SILENT=true
+[2017.06.14-01.46.08:413][235]LogSavePackage: Save=25.78ms
+[2017.06.14-01.46.08:413][235]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_PlungerBB4EBCFB49F6B92F42D716B766A72C98.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset'
+[2017.06.14-01.46.08:415][235]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset
+[2017.06.14-01.50.30:210][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Plunger" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset" SILENT=true
+[2017.06.14-01.50.30:258][310]LogSavePackage: Save=37.63ms
+[2017.06.14-01.50.30:258][310]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_Plunger89D697E64ABA38FD1E982D801E50B9FD.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset'
+[2017.06.14-01.50.30:260][310]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset
+[2017.06.14-01.50.35:001][494]BlueprintLog: New page: Compile BP_Plunger
+[2017.06.14-01.50.35:614][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Plunger" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset" SILENT=true
+[2017.06.14-01.50.35:653][506]LogSavePackage: Save=35.88ms
+[2017.06.14-01.50.35:653][506]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_Plunger99927B71497FAC897CCD9B9032C8D64A.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset'
+[2017.06.14-01.50.35:654][506]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset
+[2017.06.14-01.50.50:278][175]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.06.14-01.50.50:382][176]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Pinball
+[2017.06.14-01.50.50:382][176]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.06.14-01.50.50:382][176]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.16
+[2017.06.14-01.50.50:382][176]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.06.14-01.50.50:382][176]LogTemp: BranchPath = DESKTOP-A51IF7R/C/Program Files/Epic Games/UE_4.16/Engine/Binaries --- GameBranchPath = DESKTOP-A51IF7R/C/Program Files/Epic Games/UE_4.16/Engine/Binaries
+[2017.06.14-01.50.50:407][177]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Bruno\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.06.14-01.52.50:477][645]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.06.14-01.55.03:123][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2017.06.14-01.55.03:196][602]LogSavePackage: Save=63.09ms
+[2017.06.14-01.55.03:196][602]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_PlayerController5EE56F364223B3808A6C08A861A96005.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset'
+[2017.06.14-01.55.03:198][602]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset
+[2017.06.14-01.55.13:570][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Plunger" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset" SILENT=true
+[2017.06.14-01.55.13:600][351]LogSavePackage: Save=27.87ms
+[2017.06.14-01.55.13:600][351]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_Plunger6F2D95634AE11BFEE326F0B7FE082B9B.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset'
+[2017.06.14-01.55.13:601][351]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset
+[2017.06.14-01.57.13:395][ 75]BlueprintLog: New page: Compile BP_PlayerController
+[2017.06.14-01.57.14:083][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2017.06.14-01.57.14:159][114]LogSavePackage: Save=72.51ms
+[2017.06.14-01.57.14:159][114]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_PlayerController14B0710E4555A5428BC376860A6B1DC9.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset'
+[2017.06.14-01.57.14:161][114]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_PlayerController.uasset
+[2017.06.14-01.57.27:039][173]Cmd: TRANSACTION UNDO
+[2017.06.14-01.57.27:039][173]LogEditorTransaction: Undo Scale Actors
+[2017.06.14-01.57.43:888][762]LogEditorViewport: Clicking Background
+[2017.06.14-01.57.44:744][859]LogEditorViewport: Clicking on Actor (LMB): BP_Plunger_C (BP_Plunger)
+[2017.06.14-01.58.15:798][336]LogEditorViewport: Clicking on Actor (LMB): BP_Plunger_C (BP_Plunger)
+[2017.06.14-01.58.16:143][363]LogEditorViewport: Clicking on Actor (LMB): BP_Plunger_C (BP_Plunger)
+[2017.06.14-01.58.19:966][585]LogEditorViewport: Clicking Background
+[2017.06.14-01.58.20:501][622]LogEditorViewport: Clicking on Actor (LMB): BP_Plunger_C (BP_Plunger)
+[2017.06.14-01.58.29:114][356]LogEditorViewport: Clicking Background
+[2017.06.14-01.58.54:127][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="E:/unreal/Pinball/Saved/Autosaves/Temp/Untitled_1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.06.14-01.58.54:330][460]LogSavePackage: Save=203.30ms
+[2017.06.14-01.58.54:331][460]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/Untitled_1_Auto65A10C6AD4EC264F26AD033A84C02CE61.tmp' to 'E:/unreal/Pinball/Saved/Autosaves/Temp/Untitled_1_Auto6.umap'
+[2017.06.14-01.58.54:331][460]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Saved/Autosaves/Temp/Untitled_1_Auto6.umap
+[2017.06.14-01.58.54:333][460]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.236
+[2017.06.14-01.58.54:334][460]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.236
+[2017.06.14-01.59.46:689][965]BlueprintLog: New page: Compile BP_Plunger
+[2017.06.14-01.59.47:325][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Plunger" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset" SILENT=true
+[2017.06.14-01.59.47:380][ 10]LogSavePackage: Save=46.74ms
+[2017.06.14-01.59.47:380][ 10]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_PlungerEE0CAA834E0E3739BBC526952051009C.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset'
+[2017.06.14-01.59.47:382][ 10]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset
+[2017.06.14-02.00.01:242][724]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.00.01:258][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.00.01:259][724]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:00:01 PM)
+[2017.06.14-02.00.01:259][724]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.00.01:267][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007949s)
+[2017.06.14-02.00.01:268][724]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.00.01:268][724]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2017.06.14-02.00.01:268][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.009178s)
+[2017.06.14-02.00.01:310][724]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.00.01:322][724]LogInit: FAudioDevice initialized.
+[2017.06.14-02.00.01:357][724]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.00.01:362][724]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.00.01
+[2017.06.14-02.00.01:362][724]LogWorld: Bringing up level for play took: 0.002402
+[2017.06.14-02.00.01:364][724]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.253
+[2017.06.14-02.00.13:093][ 35]LogEditorViewport: Clicking on Actor (LMB): BP_Ball_C (BP_Ball)
+[2017.06.14-02.00.16:053][298]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.00.16:068][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.00.16:068][298]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:00:16 PM)
+[2017.06.14-02.00.16:069][298]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.00.16:075][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005795s)
+[2017.06.14-02.00.16:075][298]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.00.16:075][298]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2017.06.14-02.00.16:076][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006925s)
+[2017.06.14-02.00.16:113][298]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.00.16:124][298]LogInit: FAudioDevice initialized.
+[2017.06.14-02.00.16:159][298]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.00.16:164][298]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.00.16
+[2017.06.14-02.00.16:164][298]LogWorld: Bringing up level for play took: 0.002642
+[2017.06.14-02.00.16:166][298]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.056
+[2017.06.14-02.00.29:949][771]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.06.14-02.00.31:583][963]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.00.31:599][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.00.31:599][963]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:00:31 PM)
+[2017.06.14-02.00.31:600][963]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.00.31:606][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006040s)
+[2017.06.14-02.00.31:607][963]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.00.31:607][963]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2017.06.14-02.00.31:607][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007063s)
+[2017.06.14-02.00.31:648][963]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.00.31:659][963]LogInit: FAudioDevice initialized.
+[2017.06.14-02.00.31:709][963]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.00.31:713][963]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.00.31
+[2017.06.14-02.00.31:713][963]LogWorld: Bringing up level for play took: 0.002347
+[2017.06.14-02.00.31:714][963]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.06.14-02.00.31:717][963]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.607
+[2017.06.14-02.00.45:007][154]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.06.14-02.00.45:099][156]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Pinball
+[2017.06.14-02.00.45:099][156]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.06.14-02.00.45:099][156]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.16
+[2017.06.14-02.00.45:099][156]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.06.14-02.00.45:099][156]LogTemp: BranchPath = DESKTOP-A51IF7R/C/Program Files/Epic Games/UE_4.16/Engine/Binaries --- GameBranchPath = DESKTOP-A51IF7R/C/Program Files/Epic Games/UE_4.16/Engine/Binaries
+[2017.06.14-02.00.45:122][157]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Bruno\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.06.14-02.01.34:736][820]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.06.14-02.03.57:401][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Plunger" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset" SILENT=true
+[2017.06.14-02.03.57:444][595]LogSavePackage: Save=39.36ms
+[2017.06.14-02.03.57:444][595]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_Plunger5DD4A6E5481F115880B9BB83E8729D88.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset'
+[2017.06.14-02.03.57:446][595]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset
+[2017.06.14-02.04.00:206][704]BlueprintLog: New page: Compile BP_Plunger
+[2017.06.14-02.04.00:937][753]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.04.00:953][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.04.00:953][753]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:04:00 PM)
+[2017.06.14-02.04.00:954][753]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.04.00:960][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006222s)
+[2017.06.14-02.04.00:961][753]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.04.00:961][753]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2017.06.14-02.04.00:961][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007279s)
+[2017.06.14-02.04.00:999][753]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.04.01:011][753]LogInit: FAudioDevice initialized.
+[2017.06.14-02.04.01:060][753]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.04.01:064][753]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.04.01
+[2017.06.14-02.04.01:064][753]LogWorld: Bringing up level for play took: 0.002334
+[2017.06.14-02.04.01:065][753]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.06.14-02.04.01:068][753]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.043
+[2017.06.14-02.04.14:070][ 78]BlueprintLog: New page: Compile BP_Plunger
+[2017.06.14-02.04.15:043][151]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.04.15:058][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.04.15:059][151]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:04:15 PM)
+[2017.06.14-02.04.15:059][151]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.04.15:066][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006714s)
+[2017.06.14-02.04.15:066][151]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.04.15:066][151]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2017.06.14-02.04.15:067][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007754s)
+[2017.06.14-02.04.15:116][151]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.04.15:129][151]LogInit: FAudioDevice initialized.
+[2017.06.14-02.04.15:176][151]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.04.15:180][151]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.04.15
+[2017.06.14-02.04.15:180][151]LogWorld: Bringing up level for play took: 0.002732
+[2017.06.14-02.04.15:181][151]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.06.14-02.04.15:184][151]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.074
+[2017.06.14-02.04.33:719][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Plunger" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset" SILENT=true
+[2017.06.14-02.04.33:758][952]LogSavePackage: Save=36.44ms
+[2017.06.14-02.04.33:758][952]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_PlungerE99AA24843476775C1FEEF9CB5FD8B80.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset'
+[2017.06.14-02.04.33:760][952]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset
+[2017.06.14-02.04.35:777][ 56]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.04.35:793][ 56]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.06.14-02.04.35:793][ 56]LogPlayLevel: [PlayLevel] Compiling BP_Plunger before play...
+[2017.06.14-02.04.35:946][ 56]LogPlayLevel: PlayLevel: Blueprint regeneration took 153 ms (1 blueprints)
+[2017.06.14-02.04.35:946][ 56]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:04:35 PM)
+[2017.06.14-02.04.35:947][ 56]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.04.35:953][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005967s)
+[2017.06.14-02.04.35:953][ 56]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.04.35:953][ 56]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2017.06.14-02.04.35:954][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007006s)
+[2017.06.14-02.04.35:994][ 56]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.04.36:006][ 56]LogInit: FAudioDevice initialized.
+[2017.06.14-02.04.36:064][ 56]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.04.36:072][ 56]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.04.36
+[2017.06.14-02.04.36:072][ 56]LogWorld: Bringing up level for play took: 0.003934
+[2017.06.14-02.04.36:073][ 56]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.06.14-02.04.36:078][ 56]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.967
+[2017.06.14-02.05.10:400][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Plunger" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset" SILENT=true
+[2017.06.14-02.05.10:443][170]LogSavePackage: Save=34.91ms
+[2017.06.14-02.05.10:443][170]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_PlungerA48404FD47EF764A6B8EA7B109230B53.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset'
+[2017.06.14-02.05.10:445][170]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset
+[2017.06.14-02.05.11:501][274]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.05.11:517][274]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.06.14-02.05.11:517][274]LogPlayLevel: [PlayLevel] Compiling BP_Plunger before play...
+[2017.06.14-02.05.11:672][274]LogPlayLevel: PlayLevel: Blueprint regeneration took 155 ms (1 blueprints)
+[2017.06.14-02.05.11:672][274]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:05:11 PM)
+[2017.06.14-02.05.11:673][274]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.05.11:679][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006145s)
+[2017.06.14-02.05.11:679][274]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.05.11:680][274]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2017.06.14-02.05.11:680][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007115s)
+[2017.06.14-02.05.11:718][274]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.05.11:729][274]LogInit: FAudioDevice initialized.
+[2017.06.14-02.05.11:778][274]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.05.11:782][274]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.05.11
+[2017.06.14-02.05.11:782][274]LogWorld: Bringing up level for play took: 0.002331
+[2017.06.14-02.05.11:782][274]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.06.14-02.05.11:785][274]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.674
+[2017.06.14-02.05.22:986][317]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2017.06.14-02.05.33:494][ 87]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.05.33:510][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.05.33:510][ 87]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:05:33 PM)
+[2017.06.14-02.05.33:511][ 87]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.05.33:516][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005937s)
+[2017.06.14-02.05.33:517][ 87]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.05.33:517][ 87]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2017.06.14-02.05.33:517][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006940s)
+[2017.06.14-02.05.33:587][ 87]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.05.33:599][ 87]LogInit: FAudioDevice initialized.
+[2017.06.14-02.05.33:632][ 87]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.05.33:636][ 87]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.05.33
+[2017.06.14-02.05.33:636][ 87]LogWorld: Bringing up level for play took: 0.002241
+[2017.06.14-02.05.33:637][ 87]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.527
+[2017.06.14-02.05.46:697][410]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.05.46:715][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.05.46:715][410]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:05:46 PM)
+[2017.06.14-02.05.46:715][410]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.05.46:722][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006414s)
+[2017.06.14-02.05.46:723][410]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.05.46:723][410]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2017.06.14-02.05.46:723][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007561s)
+[2017.06.14-02.05.46:790][410]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.05.46:801][410]LogInit: FAudioDevice initialized.
+[2017.06.14-02.05.46:835][410]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.05.46:839][410]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.05.46
+[2017.06.14-02.05.46:839][410]LogWorld: Bringing up level for play took: 0.002228
+[2017.06.14-02.05.46:841][410]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.269
+[2017.06.14-02.05.52:610][993]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.05.52:626][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.05.52:627][993]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:05:52 PM)
+[2017.06.14-02.05.52:627][993]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.05.52:633][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006501s)
+[2017.06.14-02.05.52:634][993]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.05.52:634][993]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2017.06.14-02.05.52:635][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007642s)
+[2017.06.14-02.05.52:722][993]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.05.52:739][993]LogInit: FAudioDevice initialized.
+[2017.06.14-02.05.52:777][993]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.05.52:782][993]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.05.52
+[2017.06.14-02.05.52:783][993]LogWorld: Bringing up level for play took: 0.003231
+[2017.06.14-02.05.52:785][993]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.326
+[2017.06.14-02.08.42:471][992]BlueprintLog: New page: Compile BP_Ball
+[2017.06.14-02.08.43:647][ 91]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.08.43:664][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.08.43:664][ 91]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:08:43 PM)
+[2017.06.14-02.08.43:664][ 91]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.08.43:670][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006120s)
+[2017.06.14-02.08.43:671][ 91]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.08.43:671][ 91]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2017.06.14-02.08.43:671][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007256s)
+[2017.06.14-02.08.43:735][ 91]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.08.43:746][ 91]LogInit: FAudioDevice initialized.
+[2017.06.14-02.08.43:796][ 91]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.08.43:801][ 91]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.08.43
+[2017.06.14-02.08.43:801][ 91]LogWorld: Bringing up level for play took: 0.002545
+[2017.06.14-02.08.43:801][ 91]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.06.14-02.08.43:804][ 91]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.694
+[2017.06.14-02.08.48:857][616]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.08.48:872][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.08.48:872][616]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:08:48 PM)
+[2017.06.14-02.08.48:873][616]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.08.48:879][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005845s)
+[2017.06.14-02.08.48:879][616]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.08.48:879][616]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2017.06.14-02.08.48:880][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007018s)
+[2017.06.14-02.08.48:954][616]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.08.48:965][616]LogInit: FAudioDevice initialized.
+[2017.06.14-02.08.49:017][616]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.08.49:021][616]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.08.49
+[2017.06.14-02.08.49:022][616]LogWorld: Bringing up level for play took: 0.002410
+[2017.06.14-02.08.49:022][616]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.06.14-02.08.49:025][616]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.086
+[2017.06.14-02.08.53:088][ 45]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.08.53:106][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.08.53:106][ 45]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:08:53 PM)
+[2017.06.14-02.08.53:106][ 45]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.08.53:113][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006613s)
+[2017.06.14-02.08.53:114][ 45]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.08.53:114][ 45]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2017.06.14-02.08.53:114][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007782s)
+[2017.06.14-02.08.53:191][ 45]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.08.53:204][ 45]LogInit: FAudioDevice initialized.
+[2017.06.14-02.08.53:256][ 45]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.08.53:261][ 45]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.08.53
+[2017.06.14-02.08.53:261][ 45]LogWorld: Bringing up level for play took: 0.002934
+[2017.06.14-02.08.53:262][ 45]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.06.14-02.08.53:265][ 45]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.154
+[2017.06.14-02.08.59:887][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2017.06.14-02.08.59:945][772]LogSavePackage: Save=48.23ms
+[2017.06.14-02.08.59:945][772]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_BallAFE87E284DAB734BFD12CD8BD5DE58D5.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Ball.uasset'
+[2017.06.14-02.08.59:947][772]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Ball.uasset
+[2017.06.14-02.09.01:379][919]BlueprintLog: New page: Compile BP_Ball
+[2017.06.14-02.09.02:023][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2017.06.14-02.09.02:071][948]LogSavePackage: Save=45.47ms
+[2017.06.14-02.09.02:071][948]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_Ball63DF0C3945238B271FE83FBABD3F54EF.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Ball.uasset'
+[2017.06.14-02.09.02:072][948]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Ball.uasset
+[2017.06.14-02.09.03:062][ 60]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.09.03:078][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.09.03:078][ 60]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:09:03 PM)
+[2017.06.14-02.09.03:078][ 60]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.09.03:084][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005551s)
+[2017.06.14-02.09.03:084][ 60]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.09.03:084][ 60]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2017.06.14-02.09.03:084][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006551s)
+[2017.06.14-02.09.03:151][ 60]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.09.03:161][ 60]LogInit: FAudioDevice initialized.
+[2017.06.14-02.09.03:211][ 60]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.09.03:215][ 60]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.09.03
+[2017.06.14-02.09.03:215][ 60]LogWorld: Bringing up level for play took: 0.002325
+[2017.06.14-02.09.03:215][ 60]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.06.14-02.09.03:218][ 60]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.108
+[2017.06.14-02.09.07:996][528]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.09.08:012][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.09.08:012][528]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:09:08 PM)
+[2017.06.14-02.09.08:013][528]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.09.08:019][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006446s)
+[2017.06.14-02.09.08:020][528]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.09.08:020][528]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2017.06.14-02.09.08:020][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007480s)
+[2017.06.14-02.09.08:087][528]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.09.08:098][528]LogInit: FAudioDevice initialized.
+[2017.06.14-02.09.08:133][528]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.09.08:137][528]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.09.08
+[2017.06.14-02.09.08:137][528]LogWorld: Bringing up level for play took: 0.002222
+[2017.06.14-02.09.08:138][528]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.028
+[2017.06.14-02.09.13:361][ 47]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.09.13:376][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.09.13:377][ 47]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:09:13 PM)
+[2017.06.14-02.09.13:377][ 47]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.09.13:383][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006375s)
+[2017.06.14-02.09.13:384][ 47]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.09.13:384][ 47]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2017.06.14-02.09.13:384][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007368s)
+[2017.06.14-02.09.13:455][ 47]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.09.13:467][ 47]LogInit: FAudioDevice initialized.
+[2017.06.14-02.09.13:500][ 47]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.09.13:504][ 47]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.09.13
+[2017.06.14-02.09.13:504][ 47]LogWorld: Bringing up level for play took: 0.001995
+[2017.06.14-02.09.13:505][ 47]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.395
+[2017.06.14-02.09.28:232][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2017.06.14-02.09.28:281][414]LogSavePackage: Save=46.51ms
+[2017.06.14-02.09.28:281][414]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_Ball3D92837F41133C258CA9CFAE07B284C8.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Ball.uasset'
+[2017.06.14-02.09.28:283][414]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Ball.uasset
+[2017.06.14-02.09.28:760][463]BlueprintLog: New page: Compile BP_Ball
+[2017.06.14-02.09.29:186][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2017.06.14-02.09.29:238][466]LogSavePackage: Save=48.59ms
+[2017.06.14-02.09.29:238][466]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_Ball6C76D27B4E0CE3B1926A24822E9083ED.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Ball.uasset'
+[2017.06.14-02.09.29:239][466]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Ball.uasset
+[2017.06.14-02.09.30:080][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2017.06.14-02.09.30:123][551]LogSavePackage: Save=40.34ms
+[2017.06.14-02.09.30:123][551]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_BallC2B97E1C4F611CDBA95D9F8B9AE33E48.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Ball.uasset'
+[2017.06.14-02.09.30:124][551]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Ball.uasset
+[2017.06.14-02.09.31:492][662]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.09.31:508][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.09.31:508][662]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:09:31 PM)
+[2017.06.14-02.09.31:508][662]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.09.31:515][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006559s)
+[2017.06.14-02.09.31:515][662]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.09.31:516][662]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2017.06.14-02.09.31:516][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007934s)
+[2017.06.14-02.09.31:579][662]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.09.31:590][662]LogInit: FAudioDevice initialized.
+[2017.06.14-02.09.31:625][662]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.09.31:629][662]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.09.31
+[2017.06.14-02.09.31:630][662]LogWorld: Bringing up level for play took: 0.002235
+[2017.06.14-02.09.31:631][662]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.521
+[2017.06.14-02.09.41:691][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.09.41:691][591]PIE: New page: SIE session: Untitled_1 (Jun 13, 2017, 8:09:41 PM)
+[2017.06.14-02.09.41:692][591]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.09.41:699][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007175s)
+[2017.06.14-02.09.41:699][591]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.09.41:700][591]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2017.06.14-02.09.41:700][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.008335s)
+[2017.06.14-02.09.41:772][591]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.09.41:783][591]LogInit: FAudioDevice initialized.
+[2017.06.14-02.09.41:817][591]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.09.41:821][591]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.09.41
+[2017.06.14-02.09.41:821][591]LogWorld: Bringing up level for play took: 0.002290
+[2017.06.14-02.09.41:822][591]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.06.14-02.09.41:823][591]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.712
+[2017.06.14-02.09.44:836][781]LogEditorViewport: Clicking Background
+[2017.06.14-02.09.45:785][866]LogEditorViewport: Clicking Background
+[2017.06.14-02.09.48:445][170]LogEditorViewport: Clicking Background
+[2017.06.14-02.09.50:569][350]LogTemp: Repeting last play command: Simulate
+[2017.06.14-02.09.50:583][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.09.50:583][350]PIE: New page: SIE session: Untitled_1 (Jun 13, 2017, 8:09:50 PM)
+[2017.06.14-02.09.50:583][350]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.09.50:589][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005625s)
+[2017.06.14-02.09.50:590][350]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.09.50:590][350]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2017.06.14-02.09.50:590][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006690s)
+[2017.06.14-02.09.50:661][350]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.09.50:672][350]LogInit: FAudioDevice initialized.
+[2017.06.14-02.09.50:702][350]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.09.50:706][350]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.09.50
+[2017.06.14-02.09.50:706][350]LogWorld: Bringing up level for play took: 0.002178
+[2017.06.14-02.09.50:706][350]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.06.14-02.09.50:707][350]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.404
+[2017.06.14-02.09.56:078][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.09.56:078][823]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:09:56 PM)
+[2017.06.14-02.09.56:078][823]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.09.56:084][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005790s)
+[2017.06.14-02.09.56:085][823]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.09.56:085][823]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2017.06.14-02.09.56:085][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006833s)
+[2017.06.14-02.09.56:160][823]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.09.56:172][823]LogInit: FAudioDevice initialized.
+[2017.06.14-02.09.56:207][823]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.09.56:211][823]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.09.56
+[2017.06.14-02.09.56:211][823]LogWorld: Bringing up level for play took: 0.002363
+[2017.06.14-02.09.56:212][823]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.102
+[2017.06.14-02.10.00:979][253]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2017.06.14-02.10.03:951][464]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.10.03:968][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.10.03:968][464]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:10:03 PM)
+[2017.06.14-02.10.03:968][464]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.10.03:974][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006139s)
+[2017.06.14-02.10.03:975][464]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.10.03:975][464]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2017.06.14-02.10.03:975][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007118s)
+[2017.06.14-02.10.04:040][464]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.10.04:051][464]LogInit: FAudioDevice initialized.
+[2017.06.14-02.10.04:130][464]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.10.04:149][464]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.10.04
+[2017.06.14-02.10.04:150][464]LogWorld: Bringing up level for play took: 0.010147
+[2017.06.14-02.10.04:155][464]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.045
+[2017.06.14-02.10.12:703][296]Cmd: TRANSACTION UNDO
+[2017.06.14-02.10.12:703][296]LogEditorTransaction: Undo Move Actors
+[2017.06.14-02.10.38:769][748]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.10.38:785][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.10.38:785][748]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:10:38 PM)
+[2017.06.14-02.10.38:785][748]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.10.38:792][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006648s)
+[2017.06.14-02.10.38:793][748]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.10.38:793][748]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2017.06.14-02.10.38:793][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007669s)
+[2017.06.14-02.10.38:860][748]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.10.38:872][748]LogInit: FAudioDevice initialized.
+[2017.06.14-02.10.38:918][748]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.10.38:922][748]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.10.38
+[2017.06.14-02.10.38:923][748]LogWorld: Bringing up level for play took: 0.002612
+[2017.06.14-02.10.38:923][748]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.06.14-02.10.38:925][748]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.185
+[2017.06.14-02.10.40:642][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Plunger" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset" SILENT=true
+[2017.06.14-02.10.40:689][923]LogSavePackage: Save=38.65ms
+[2017.06.14-02.10.40:689][923]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_Plunger1CC47ED2432BA11FCA285F9325C2269E.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset'
+[2017.06.14-02.10.40:692][923]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset
+[2017.06.14-02.10.41:268][985]BlueprintLog: New page: Compile BP_Plunger
+[2017.06.14-02.10.41:804][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Plunger" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset" SILENT=true
+[2017.06.14-02.10.41:851][ 19]LogSavePackage: Save=43.97ms
+[2017.06.14-02.10.41:851][ 19]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_Plunger591C3E8E475701B368D94A88A05C5996.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset'
+[2017.06.14-02.10.41:852][ 19]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Plunger.uasset
+[2017.06.14-02.10.43:250][121]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.10.43:267][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.10.43:267][121]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:10:43 PM)
+[2017.06.14-02.10.43:267][121]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.10.43:273][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006304s)
+[2017.06.14-02.10.43:274][121]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.10.43:274][121]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2017.06.14-02.10.43:274][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007357s)
+[2017.06.14-02.10.43:348][121]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.10.43:360][121]LogInit: FAudioDevice initialized.
+[2017.06.14-02.10.43:395][121]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.10.43:399][121]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.10.43
+[2017.06.14-02.10.43:400][121]LogWorld: Bringing up level for play took: 0.002271
+[2017.06.14-02.10.43:401][121]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.29
+[2017.06.14-02.10.48:601][598]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.10.48:618][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.10.48:618][598]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:10:48 PM)
+[2017.06.14-02.10.48:619][598]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.10.48:625][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006797s)
+[2017.06.14-02.10.48:626][598]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.10.48:626][598]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2017.06.14-02.10.48:626][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007871s)
+[2017.06.14-02.10.48:702][598]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.10.48:713][598]LogInit: FAudioDevice initialized.
+[2017.06.14-02.10.48:747][598]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.10.48:751][598]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.10.48
+[2017.06.14-02.10.48:752][598]LogWorld: Bringing up level for play took: 0.002230
+[2017.06.14-02.10.48:753][598]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.357
+[2017.06.14-02.10.54:303][141]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.10.54:319][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.10.54:319][141]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:10:54 PM)
+[2017.06.14-02.10.54:319][141]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.10.54:326][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006215s)
+[2017.06.14-02.10.54:326][141]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.10.54:327][141]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2017.06.14-02.10.54:327][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007360s)
+[2017.06.14-02.10.54:397][141]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.10.54:410][141]LogInit: FAudioDevice initialized.
+[2017.06.14-02.10.54:442][141]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.10.54:446][141]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.10.54
+[2017.06.14-02.10.54:446][141]LogWorld: Bringing up level for play took: 0.002265
+[2017.06.14-02.10.54:447][141]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.663
+[2017.06.14-02.11.02:324][933]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.11.02:341][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.11.02:341][933]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:11:02 PM)
+[2017.06.14-02.11.02:341][933]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.11.02:348][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006424s)
+[2017.06.14-02.11.02:348][933]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.11.02:348][933]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2017.06.14-02.11.02:349][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007545s)
+[2017.06.14-02.11.02:428][933]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.11.02:441][933]LogInit: FAudioDevice initialized.
+[2017.06.14-02.11.02:472][933]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.11.02:476][933]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.11.02
+[2017.06.14-02.11.02:477][933]LogWorld: Bringing up level for play took: 0.002789
+[2017.06.14-02.11.02:478][933]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.632
+[2017.06.14-02.11.14:185][219]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.11.14:204][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.11.14:204][219]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:11:14 PM)
+[2017.06.14-02.11.14:204][219]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.11.14:212][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007376s)
+[2017.06.14-02.11.14:212][219]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.11.14:212][219]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2017.06.14-02.11.14:213][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.008476s)
+[2017.06.14-02.11.14:295][219]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.11.14:306][219]LogInit: FAudioDevice initialized.
+[2017.06.14-02.11.14:343][219]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.11.14:346][219]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.11.14
+[2017.06.14-02.11.14:347][219]LogWorld: Bringing up level for play took: 0.002231
+[2017.06.14-02.11.14:348][219]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.762
+[2017.06.14-02.11.37:728][803]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2017.06.14-02.11.39:897][945]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.11.39:915][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.11.39:915][945]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:11:39 PM)
+[2017.06.14-02.11.39:915][945]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.11.39:922][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006711s)
+[2017.06.14-02.11.39:922][945]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.11.39:923][945]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2017.06.14-02.11.39:923][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007884s)
+[2017.06.14-02.11.39:992][945]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.11.40:004][945]LogInit: FAudioDevice initialized.
+[2017.06.14-02.11.40:040][945]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.11.40:044][945]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.11.40
+[2017.06.14-02.11.40:044][945]LogWorld: Bringing up level for play took: 0.002372
+[2017.06.14-02.11.40:046][945]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.935
+[2017.06.14-02.11.44:995][448]Cmd: TRANSACTION UNDO
+[2017.06.14-02.11.44:995][448]LogEditorTransaction: Undo Move Actors
+[2017.06.14-02.11.47:158][585]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.11.47:176][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.11.47:176][585]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:11:47 PM)
+[2017.06.14-02.11.47:176][585]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.11.47:184][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007510s)
+[2017.06.14-02.11.47:185][585]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.11.47:185][585]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2017.06.14-02.11.47:185][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.008645s)
+[2017.06.14-02.11.47:261][585]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.11.47:273][585]LogInit: FAudioDevice initialized.
+[2017.06.14-02.11.47:307][585]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.11.47:311][585]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.11.47
+[2017.06.14-02.11.47:311][585]LogWorld: Bringing up level for play took: 0.002440
+[2017.06.14-02.11.47:313][585]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.202
+[2017.06.14-02.12.37:527][ 32]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.06.14-02.12.52:235][693]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.12.52:251][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.12.52:252][693]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:12:52 PM)
+[2017.06.14-02.12.52:252][693]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.12.52:258][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006446s)
+[2017.06.14-02.12.52:259][693]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.12.52:259][693]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2017.06.14-02.12.52:259][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007606s)
+[2017.06.14-02.12.52:326][693]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.12.52:337][693]LogInit: FAudioDevice initialized.
+[2017.06.14-02.12.52:372][693]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.12.52:375][693]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.12.52
+[2017.06.14-02.12.52:376][693]LogWorld: Bringing up level for play took: 0.002212
+[2017.06.14-02.12.52:377][693]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.733
+[2017.06.14-02.12.57:305][193]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.12.57:321][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.12.57:321][193]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:12:57 PM)
+[2017.06.14-02.12.57:321][193]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.12.57:327][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005839s)
+[2017.06.14-02.12.57:328][193]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.12.57:328][193]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2017.06.14-02.12.57:328][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006936s)
+[2017.06.14-02.12.57:417][193]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.12.57:435][193]LogInit: FAudioDevice initialized.
+[2017.06.14-02.12.57:471][193]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.12.57:477][193]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.12.57
+[2017.06.14-02.12.57:477][193]LogWorld: Bringing up level for play took: 0.003164
+[2017.06.14-02.12.57:479][193]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.369
+[2017.06.14-02.13.01:862][642]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.13.01:879][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.13.01:879][642]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:13:01 PM)
+[2017.06.14-02.13.01:879][642]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.13.01:886][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006316s)
+[2017.06.14-02.13.01:886][642]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.13.01:886][642]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2017.06.14-02.13.01:887][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007450s)
+[2017.06.14-02.13.01:956][642]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.13.01:967][642]LogInit: FAudioDevice initialized.
+[2017.06.14-02.13.02:003][642]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.13.02:006][642]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.13.02
+[2017.06.14-02.13.02:007][642]LogWorld: Bringing up level for play took: 0.002175
+[2017.06.14-02.13.02:008][642]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.898
+[2017.06.14-02.13.09:060][381]Cmd: TRANSACTION UNDO
+[2017.06.14-02.13.09:060][381]LogEditorTransaction: Undo Edit Editor Startup Map
+[2017.06.14-02.13.09:757][444]Cmd: TRANSACTION UNDO
+[2017.06.14-02.13.09:757][444]LogEditorTransaction: Undo Clicking on Actors
+[2017.06.14-02.13.11:097][589]Cmd: TRANSACTION UNDO
+[2017.06.14-02.13.11:097][589]LogEditorTransaction: Undo Mouse Drag
+[2017.06.14-02.13.12:303][701]Cmd: TRANSACTION UNDO
+[2017.06.14-02.13.12:303][701]LogEditorTransaction: Undo Mouse Drag
+[2017.06.14-02.13.16:177][ 47]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.13.16:193][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.13.16:193][ 47]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:13:16 PM)
+[2017.06.14-02.13.16:193][ 47]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.13.16:199][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005691s)
+[2017.06.14-02.13.16:200][ 47]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.13.16:200][ 47]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2017.06.14-02.13.16:200][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006797s)
+[2017.06.14-02.13.16:278][ 47]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.13.16:290][ 47]LogInit: FAudioDevice initialized.
+[2017.06.14-02.13.16:322][ 47]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.13.16:326][ 47]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.13.16
+[2017.06.14-02.13.16:326][ 47]LogWorld: Bringing up level for play took: 0.002300
+[2017.06.14-02.13.16:328][ 47]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.783
+[2017.06.14-02.15.56:117][247]LogEditorTransaction: Undo Edit Collision Profile Name
+[2017.06.14-02.15.56:397][247]LogEditorTransaction: Undo Edit Customized Collision
+[2017.06.14-02.15.56:663][247]LogEditorTransaction: Undo Edit Customized Collision
+[2017.06.14-02.16.32:050][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="E:/unreal/Pinball/Saved/Autosaves/Temp/Untitled_1_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.06.14-02.16.32:257][267]LogSavePackage: Save=206.34ms
+[2017.06.14-02.16.32:257][267]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/Untitled_1_Auto71D55DE014BF1F4065C51EFADBED03DD4.tmp' to 'E:/unreal/Pinball/Saved/Autosaves/Temp/Untitled_1_Auto7.umap'
+[2017.06.14-02.16.32:258][267]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Saved/Autosaves/Temp/Untitled_1_Auto7.umap
+[2017.06.14-02.16.32:260][267]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.238
+[2017.06.14-02.16.32:260][267]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.238
+[2017.06.14-02.18.46:775][551]LogEditorViewport: Clicking on Actor (LMB): BP_Ball_C (BP_Ball)
+[2017.06.14-02.22.56:190][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2017.06.14-02.22.56:274][684]LogSavePackage: Save=74.98ms
+[2017.06.14-02.22.56:274][684]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_Ball5318BA8C4B5052C66C9C4B9B989C9FEC.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Ball.uasset'
+[2017.06.14-02.22.56:277][684]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Ball.uasset
+[2017.06.14-02.22.56:916][742]BlueprintLog: New page: Compile BP_Ball
+[2017.06.14-02.22.57:814][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2017.06.14-02.22.57:869][801]LogSavePackage: Save=51.72ms
+[2017.06.14-02.22.57:869][801]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_BallDB9E82D946B2EAF80318EE86127ABE03.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Ball.uasset'
+[2017.06.14-02.22.57:870][801]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Ball.uasset
+[2017.06.14-02.23.00:226][982]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.23.00:250][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.23.00:251][982]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:23:00 PM)
+[2017.06.14-02.23.00:251][982]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.23.00:257][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006505s)
+[2017.06.14-02.23.00:258][982]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.23.00:258][982]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2017.06.14-02.23.00:258][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007557s)
+[2017.06.14-02.23.00:297][982]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.23.00:308][982]LogInit: FAudioDevice initialized.
+[2017.06.14-02.23.00:341][982]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.23.00:345][982]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.23.00
+[2017.06.14-02.23.00:346][982]LogWorld: Bringing up level for play took: 0.002373
+[2017.06.14-02.23.00:347][982]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.763
+[2017.06.14-02.23.25:001][328]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.23.25:018][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.23.25:018][328]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:23:25 PM)
+[2017.06.14-02.23.25:018][328]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.23.25:026][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007499s)
+[2017.06.14-02.23.25:027][328]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.23.25:027][328]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2017.06.14-02.23.25:027][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.008693s)
+[2017.06.14-02.23.25:070][328]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.23.25:082][328]LogInit: FAudioDevice initialized.
+[2017.06.14-02.23.25:118][328]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.23.25:122][328]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.23.25
+[2017.06.14-02.23.25:122][328]LogWorld: Bringing up level for play took: 0.002265
+[2017.06.14-02.23.25:124][328]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.013
+[2017.06.14-02.23.54:670][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Flipper" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset" SILENT=true
+[2017.06.14-02.23.54:737][252]LogSavePackage: Save=59.08ms
+[2017.06.14-02.23.54:737][252]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_Flipper74787CF842981166826211BCACA0831C.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset'
+[2017.06.14-02.23.54:740][252]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset
+[2017.06.14-02.23.55:802][329]BlueprintLog: New page: Compile BP_Flipper
+[2017.06.14-02.23.56:557][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Flipper" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset" SILENT=true
+[2017.06.14-02.23.56:620][360]LogSavePackage: Save=59.73ms
+[2017.06.14-02.23.56:620][360]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_Flipper44B6ED3D455E5FAF0A94DD848DE67F29.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset'
+[2017.06.14-02.23.56:621][360]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset
+[2017.06.14-02.23.57:484][441]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.23.57:500][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.23.57:500][441]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:23:57 PM)
+[2017.06.14-02.23.57:500][441]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.23.57:506][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006400s)
+[2017.06.14-02.23.57:507][441]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.23.57:507][441]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2017.06.14-02.23.57:507][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007436s)
+[2017.06.14-02.23.57:554][441]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.23.57:566][441]LogInit: FAudioDevice initialized.
+[2017.06.14-02.23.57:616][441]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.23.57:620][441]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.23.57
+[2017.06.14-02.23.57:621][441]LogWorld: Bringing up level for play took: 0.002334
+[2017.06.14-02.23.57:621][441]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.06.14-02.23.57:624][441]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.513
+[2017.06.14-02.24.19:089][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Flipper" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset" SILENT=true
+[2017.06.14-02.24.19:150][365]LogSavePackage: Save=57.71ms
+[2017.06.14-02.24.19:150][365]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_Flipper283C19254B5F41B615998884941B6654.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset'
+[2017.06.14-02.24.19:152][365]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset
+[2017.06.14-02.24.19:311][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Flipper" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset" SILENT=true
+[2017.06.14-02.24.19:376][369]LogSavePackage: Save=61.00ms
+[2017.06.14-02.24.19:376][369]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_FlipperE9305B9C47DA8AA7C173B089400634CE.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset'
+[2017.06.14-02.24.19:377][369]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset
+[2017.06.14-02.24.20:150][426]BlueprintLog: New page: Compile BP_Flipper
+[2017.06.14-02.24.20:961][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Flipper" FILE="E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset" SILENT=true
+[2017.06.14-02.24.21:030][462]LogSavePackage: Save=64.67ms
+[2017.06.14-02.24.21:030][462]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BP_Flipper1752583D4F6E0357069D5C912119E303.tmp' to 'E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset'
+[2017.06.14-02.24.21:031][462]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Blueprints/BP_Flipper.uasset
+[2017.06.14-02.24.22:553][579]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.14-02.24.22:570][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.14-02.24.22:570][579]PIE: New page: PIE session: Untitled_1 (Jun 13, 2017, 8:24:22 PM)
+[2017.06.14-02.24.22:570][579]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.06.14-02.24.22:576][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005909s)
+[2017.06.14-02.24.22:577][579]LogAIModule: Creating AISystem for world Untitled_1
+[2017.06.14-02.24.22:577][579]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2017.06.14-02.24.22:577][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006922s)
+[2017.06.14-02.24.22:616][579]LogInit: XAudio2 using 'Fone de ouvido do headset (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.06.14-02.24.22:628][579]LogInit: FAudioDevice initialized.
+[2017.06.14-02.24.22:662][579]LogLoad: Game class is 'BP_GameMode_C'
+[2017.06.14-02.24.22:666][579]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.06.13-23.24.22
+[2017.06.14-02.24.22:666][579]LogWorld: Bringing up level for play took: 0.002336
+[2017.06.14-02.24.22:667][579]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.443
+[2017.06.14-02.25.31:919][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Plunger" FILE="E:/unreal/Pinball/Content/Assets/SM_Plunger.uasset" SILENT=true
+[2017.06.14-02.25.31:942][935]LogSavePackage: Save=15.70ms
+[2017.06.14-02.25.31:942][935]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/SM_Plunger356E550A471195BA1D39CFA3BB48719C.tmp' to 'E:/unreal/Pinball/Content/Assets/SM_Plunger.uasset'
+[2017.06.14-02.25.31:945][935]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Assets/SM_Plunger.uasset
+[2017.06.14-02.25.32:349][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Plunger" FILE="E:/unreal/Pinball/Content/Assets/SM_Plunger.uasset" SILENT=true
+[2017.06.14-02.25.32:359][971]LogSavePackage: Save=6.97ms
+[2017.06.14-02.25.32:359][971]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/SM_PlungerD84CE10540CF03A4DFE78B8BA5B4D955.tmp' to 'E:/unreal/Pinball/Content/Assets/SM_Plunger.uasset'
+[2017.06.14-02.25.32:360][971]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Assets/SM_Plunger.uasset
+[2017.06.14-02.26.04:441][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/BallSphere" FILE="E:/unreal/Pinball/Content/Assets/BallSphere.uasset" SILENT=true
+[2017.06.14-02.26.04:466][680]LogSavePackage: Save=15.37ms
+[2017.06.14-02.26.04:466][680]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/BallSphereBA12896041E4ECED8B5CC1A9ADA695EB.tmp' to 'E:/unreal/Pinball/Content/Assets/BallSphere.uasset'
+[2017.06.14-02.26.04:468][680]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Assets/BallSphere.uasset
+[2017.06.14-02.26.04:472][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_Bumper" FILE="E:/unreal/Pinball/Content/Assets/M_Bumper.uasset" SILENT=true
+[2017.06.14-02.26.04:514][680]LogSavePackage: Save=33.75ms
+[2017.06.14-02.26.04:514][680]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/M_Bumper096D40F1497F53394E7EE5A44ADB4CE3.tmp' to 'E:/unreal/Pinball/Content/Assets/M_Bumper.uasset'
+[2017.06.14-02.26.04:521][680]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Assets/M_Bumper.uasset
+[2017.06.14-02.26.04:526][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_SimpleMetal" FILE="E:/unreal/Pinball/Content/Assets/M_SimpleMetal.uasset" SILENT=true
+[2017.06.14-02.26.04:541][680]LogSavePackage: Save=7.34ms
+[2017.06.14-02.26.04:541][680]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/M_SimpleMetalBAB2E9D44663DC6D410F18BE619E3884.tmp' to 'E:/unreal/Pinball/Content/Assets/M_SimpleMetal.uasset'
+[2017.06.14-02.26.04:548][680]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Assets/M_SimpleMetal.uasset
+[2017.06.14-02.26.04:553][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_SimplePlastic" FILE="E:/unreal/Pinball/Content/Assets/M_SimplePlastic.uasset" SILENT=true
+[2017.06.14-02.26.04:567][680]LogSavePackage: Save=6.54ms
+[2017.06.14-02.26.04:567][680]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/M_SimplePlastic1F638E7F41403E4067E895B88F8333E2.tmp' to 'E:/unreal/Pinball/Content/Assets/M_SimplePlastic.uasset'
+[2017.06.14-02.26.04:581][680]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Assets/M_SimplePlastic.uasset
+[2017.06.14-02.26.04:602][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_PopBumperMechanism" FILE="E:/unreal/Pinball/Content/Assets/SM_PopBumperMechanism.uasset" SILENT=true
+[2017.06.14-02.26.04:620][680]LogSavePackage: Save=15.64ms
+[2017.06.14-02.26.04:620][680]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/SM_PopBumperMechanism001B612941E9E8C73DC73398089F57B8.tmp' to 'E:/unreal/Pinball/Content/Assets/SM_PopBumperMechanism.uasset'
+[2017.06.14-02.26.04:625][680]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Assets/SM_PopBumperMechanism.uasset
+[2017.06.14-02.26.04:640][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/T_PopBumperTop" FILE="E:/unreal/Pinball/Content/Assets/T_PopBumperTop.uasset" SILENT=true
+[2017.06.14-02.26.04:665][680]LogSavePackage: Save=23.36ms
+[2017.06.14-02.26.04:665][680]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/T_PopBumperTop34B06E52409495AB9D42109F6B69C729.tmp' to 'E:/unreal/Pinball/Content/Assets/T_PopBumperTop.uasset'
+[2017.06.14-02.26.04:669][680]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Assets/T_PopBumperTop.uasset
+[2017.06.14-02.26.10:132][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pinball" FILE="E:/unreal/Pinball/Content/Pinball.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.06.14-02.26.10:403][680]LogSavePackage: Save=207.48ms
+[2017.06.14-02.26.10:403][680]LogSavePackage: Moving 'E:/unreal/Pinball/Saved/Pinball4E5C38314715FA2D9102C9B2B8D048FA.tmp' to 'E:/unreal/Pinball/Content/Pinball.umap'
+[2017.06.14-02.26.10:407][680]LogSavePackage:Display: Finished SavePackage E:/unreal/Pinball/Content/Pinball.umap
+[2017.06.14-02.26.10:575][680]LogFileHelpers: Saving map 'Pinball' took 1.374
+[2017.06.14-02.26.10:659][680]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.06.14-02.26.10:778][680]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.06.14-02.26.11:052][680]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.06.14-02.26.11:137][680]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.06.14-02.26.11:244][680]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.06.14-02.26.15:004][681]Cmd: QUIT_EDITOR
+[2017.06.14-02.26.15:311][681]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.06.14-02.26.15:418][681]LogExit: Preparing to exit.
+[2017.06.14-02.26.15:859][681]LogExit: Editor shut down
+[2017.06.14-02.26.15:871][681]LogExit: Transaction tracking system shut down
+[2017.06.14-02.26.16:632][681]LogObj: Freed 0b from 0 cluster array pools.
+[2017.06.14-02.26.16:632][681]LogExit: Object subsystem successfully closed.
+[2017.06.14-02.26.16:700][681]LogD3D11RHI: Shutdown
+[2017.06.14-02.26.16:700][681]LogD3D11RHI: CleanupD3DDevice
+[2017.06.14-02.26.17:085][681]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.06.14-02.26.17:171][681]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (540)
+[2017.06.14-02.26.17:171][681]LogModuleManager: Shutting down and abandoning module TextureEditor (538)
+[2017.06.14-02.26.17:172][681]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (536)
+[2017.06.14-02.26.17:172][681]LogModuleManager: Shutting down and abandoning module BlueprintGraph (534)
+[2017.06.14-02.26.17:172][681]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (532)
+[2017.06.14-02.26.17:175][681]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (530)
+[2017.06.14-02.26.17:176][681]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (528)
+[2017.06.14-02.26.17:176][681]LogModuleManager: Shutting down and abandoning module MaterialEditor (526)
+[2017.06.14-02.26.17:176][681]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (524)
+[2017.06.14-02.26.17:177][681]LogModuleManager: Shutting down and abandoning module CrashTracker (522)
+[2017.06.14-02.26.17:177][681]LogModuleManager: Shutting down and abandoning module SceneOutliner (520)
+[2017.06.14-02.26.17:177][681]LogModuleManager: Shutting down and abandoning module AddContentDialog (518)
+[2017.06.14-02.26.17:183][681]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.16/FeaturePacks/' was aborted.
+[2017.06.14-02.26.17:193][681]LogModuleManager: Shutting down and abandoning module WidgetCarousel (517)
+[2017.06.14-02.26.17:193][681]LogModuleManager: Shutting down and abandoning module EditorWidgets (514)
+[2017.06.14-02.26.17:193][681]LogModuleManager: Shutting down and abandoning module CollectionManager (512)
+[2017.06.14-02.26.17:194][681]LogDirectoryWatcher: A directory notification for 'E:/unreal/Pinball/Content/Collections/' was aborted.
+[2017.06.14-02.26.17:194][681]LogDirectoryWatcher: A directory notification for 'E:/unreal/Pinball/Content/Developers/Bruno/Collections/' was aborted.
+[2017.06.14-02.26.17:194][681]LogDirectoryWatcher: A directory notification for 'E:/unreal/Pinball/Saved/Collections/' was aborted.
+[2017.06.14-02.26.17:194][681]LogModuleManager: Shutting down and abandoning module StatsViewer (510)
+[2017.06.14-02.26.17:195][681]LogModuleManager: Shutting down and abandoning module FoliageEdit (508)
+[2017.06.14-02.26.17:195][681]LogModuleManager: Shutting down and abandoning module LandscapeEditor (506)
+[2017.06.14-02.26.17:201][681]LogModuleManager: Shutting down and abandoning module MeshPaintMode (504)
+[2017.06.14-02.26.17:202][681]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (502)
+[2017.06.14-02.26.17:202][681]LogModuleManager: Shutting down and abandoning module ActorPickerMode (500)
+[2017.06.14-02.26.17:202][681]LogModuleManager: Shutting down and abandoning module GeometryMode (498)
+[2017.06.14-02.26.17:202][681]LogModuleManager: Shutting down and abandoning module TextureAlignMode (496)
+[2017.06.14-02.26.17:202][681]LogModuleManager: Shutting down and abandoning module BspMode (494)
+[2017.06.14-02.26.17:202][681]LogModuleManager: Shutting down and abandoning module HardwareSurvey (492)
+[2017.06.14-02.26.17:203][681]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (490)
+[2017.06.14-02.26.17:203][681]LogModuleManager: Shutting down and abandoning module AutomationWorker (488)
+[2017.06.14-02.26.17:204][681]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (486)
+[2017.06.14-02.26.17:204][681]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (484)
+[2017.06.14-02.26.17:213][681]LogModuleManager: Shutting down and abandoning module PlacementMode (483)
+[2017.06.14-02.26.17:213][681]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (480)
+[2017.06.14-02.26.17:213][681]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (478)
+[2017.06.14-02.26.17:213][681]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (476)
+[2017.06.14-02.26.17:213][681]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (474)
+[2017.06.14-02.26.17:213][681]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (472)
+[2017.06.14-02.26.17:214][681]LogModuleManager: Shutting down and abandoning module Media (471)
+[2017.06.14-02.26.17:214][681]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (468)
+[2017.06.14-02.26.17:214][681]LogModuleManager: Shutting down and abandoning module CharacterAI (466)
+[2017.06.14-02.26.17:214][681]LogModuleManager: Shutting down and abandoning module AudioCapture (464)
+[2017.06.14-02.26.17:215][681]LogModuleManager: Shutting down and abandoning module SequenceRecorder (463)
+[2017.06.14-02.26.17:217][681]LogModuleManager: Shutting down and abandoning module SmartSnapping (460)
+[2017.06.14-02.26.17:217][681]LogModuleManager: Shutting down and abandoning module SessionServices (458)
+[2017.06.14-02.26.17:217][681]LogModuleManager: Shutting down and abandoning module ViewportSnapping (456)
+[2017.06.14-02.26.17:217][681]LogModuleManager: Shutting down and abandoning module ViewportInteraction (454)
+[2017.06.14-02.26.17:218][681]LogModuleManager: Shutting down and abandoning module ClothPainter (452)
+[2017.06.14-02.26.17:220][681]LogModuleManager: Shutting down and abandoning module LogVisualizer (450)
+[2017.06.14-02.26.17:225][681]LogModuleManager: Shutting down and abandoning module IntroTutorials (448)
+[2017.06.14-02.26.17:230][681]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (447)
+[2017.06.14-02.26.17:233][681]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (444)
+[2017.06.14-02.26.17:234][681]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (442)
+[2017.06.14-02.26.17:234][681]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (440)
+[2017.06.14-02.26.17:234][681]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (438)
+[2017.06.14-02.26.17:234][681]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (437)
+[2017.06.14-02.26.18:061][681]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (434)
+[2017.06.14-02.26.18:061][681]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (432)
+[2017.06.14-02.26.18:061][681]LogModuleManager: Shutting down and abandoning module InputBindingEditor (430)
+[2017.06.14-02.26.18:078][681]LogModuleManager: Shutting down and abandoning module MergeActors (428)
+[2017.06.14-02.26.18:090][681]LogModuleManager: Shutting down and abandoning module SizeMap (426)
+[2017.06.14-02.26.18:103][681]LogModuleManager: Shutting down and abandoning module TreeMap (424)
+[2017.06.14-02.26.18:128][681]LogModuleManager: Shutting down and abandoning module ReferenceViewer (422)
+[2017.06.14-02.26.18:160][681]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (420)
+[2017.06.14-02.26.18:257][681]LogModuleManager: Shutting down and abandoning module LocalizationService (419)
+[2017.06.14-02.26.18:281][681]LogModuleManager: Shutting down and abandoning module HardwareTargeting (416)
+[2017.06.14-02.26.18:281][681]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (414)
+[2017.06.14-02.26.18:305][681]LogModuleManager: Shutting down and abandoning module UndoHistory (412)
+[2017.06.14-02.26.18:353][681]LogModuleManager: Shutting down and abandoning module UserFeedback (410)
+[2017.06.14-02.26.18:353][681]LogModuleManager: Shutting down and abandoning module XmlParser (408)
+[2017.06.14-02.26.18:369][681]LogModuleManager: Shutting down and abandoning module Blutility (406)
+[2017.06.14-02.26.18:385][681]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (404)
+[2017.06.14-02.26.18:386][681]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (403)
+[2017.06.14-02.26.18:416][681]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (400)
+[2017.06.14-02.26.18:424][681]LogModuleManager: Shutting down and abandoning module SettingsEditor (398)
+[2017.06.14-02.26.18:424][681]LogModuleManager: Shutting down and abandoning module ProjectLauncher (396)
+[2017.06.14-02.26.18:504][681]LogModuleManager: Shutting down and abandoning module SessionFrontend (394)
+[2017.06.14-02.26.18:544][681]LogModuleManager: Shutting down and abandoning module ProfilerClient (392)
+[2017.06.14-02.26.18:575][681]LogModuleManager: Shutting down and abandoning module DeviceManager (390)
+[2017.06.14-02.26.18:607][681]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (389)
+[2017.06.14-02.26.18:659][681]LogModuleManager: Shutting down and abandoning module AutomationController (386)
+[2017.06.14-02.26.18:697][681]LogModuleManager: Shutting down and abandoning module AutomationWindow (384)
+[2017.06.14-02.26.18:699][681]LogModuleManager: Shutting down and abandoning module Layers (382)
+[2017.06.14-02.26.18:702][681]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (380)
+[2017.06.14-02.26.18:702][681]LogModuleManager: Shutting down and abandoning module DetailCustomizations (378)
+[2017.06.14-02.26.18:703][681]LogModuleManager: Shutting down and abandoning module PackagesDialog (376)
+[2017.06.14-02.26.18:703][681]LogModuleManager: Shutting down and abandoning module Persona (374)
+[2017.06.14-02.26.18:707][681]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (373)
+[2017.06.14-02.26.18:707][681]LogModuleManager: Shutting down and abandoning module AnimGraph (371)
+[2017.06.14-02.26.18:707][681]LogModuleManager: Shutting down and abandoning module Kismet (368)
+[2017.06.14-02.26.18:735][681]LogModuleManager: Shutting down and abandoning module ClassViewer (366)
+[2017.06.14-02.26.18:737][681]LogModuleManager: Shutting down and abandoning module Toolbox (364)
+[2017.06.14-02.26.18:737][681]LogModuleManager: Shutting down and abandoning module ModuleUI (362)
+[2017.06.14-02.26.18:738][681]LogModuleManager: Shutting down and abandoning module MovieSceneTools (360)
+[2017.06.14-02.26.18:743][681]LogModuleManager: Shutting down and abandoning module OutputLog (358)
+[2017.06.14-02.26.18:744][681]LogModuleManager: Shutting down and abandoning module GammaUI (356)
+[2017.06.14-02.26.18:745][681]LogModuleManager: Shutting down and abandoning module Documentation (354)
+[2017.06.14-02.26.18:747][681]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (352)
+[2017.06.14-02.26.18:747][681]LogModuleManager: Shutting down and abandoning module MovieScene (350)
+[2017.06.14-02.26.18:747][681]LogModuleManager: Shutting down and abandoning module Niagara (348)
+[2017.06.14-02.26.18:748][681]LogModuleManager: Shutting down and abandoning module NiagaraEditor (347)
+[2017.06.14-02.26.18:754][681]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (344)
+[2017.06.14-02.26.18:754][681]LogModuleManager: Shutting down and abandoning module AnalyticsET (342)
+[2017.06.14-02.26.18:754][681]LogModuleManager: Shutting down and abandoning module PortalServices (340)
+[2017.06.14-02.26.18:754][681]LogModuleManager: Shutting down and abandoning module PortalRpc (338)
+[2017.06.14-02.26.18:754][681]LogModuleManager: Shutting down and abandoning module MessagingRpc (336)
+[2017.06.14-02.26.18:754][681]LogModuleManager: Shutting down and abandoning module AIModule (334)
+[2017.06.14-02.26.18:755][681]LogModuleManager: Shutting down and abandoning module GameplayDebugger (333)
+[2017.06.14-02.26.18:755][681]LogModuleManager: Shutting down and abandoning module AITestSuite (331)
+[2017.06.14-02.26.18:756][681]LogModuleManager: Shutting down and abandoning module ProfilerService (328)
+[2017.06.14-02.26.18:921][681]LogModuleManager: Shutting down and abandoning module TaskGraph (326)
+[2017.06.14-02.26.18:923][681]LogModuleManager: Shutting down and abandoning module SteamVRController (324)
+[2017.06.14-02.26.18:923][681]LogModuleManager: Shutting down and abandoning module SteamVR (322)
+[2017.06.14-02.26.18:923][681]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (320)
+[2017.06.14-02.26.18:924][681]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (318)
+[2017.06.14-02.26.18:924][681]LogModuleManager: Shutting down and abandoning module OculusLibrary (316)
+[2017.06.14-02.26.18:924][681]LogModuleManager: Shutting down and abandoning module OculusInput (314)
+[2017.06.14-02.26.18:924][681]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (312)
+[2017.06.14-02.26.18:924][681]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (310)
+[2017.06.14-02.26.18:924][681]LogModuleManager: Shutting down and abandoning module CableComponent (308)
+[2017.06.14-02.26.18:924][681]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (306)
+[2017.06.14-02.26.18:924][681]LogModuleManager: Shutting down and abandoning module AndroidPermission (304)
+[2017.06.14-02.26.18:924][681]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (300)
+[2017.06.14-02.26.18:926][681]LogModuleManager: Shutting down and abandoning module HTML5Networking (298)
+[2017.06.14-02.26.18:926][681]LogModuleManager: Shutting down and abandoning module AlembicImporter (296)
+[2017.06.14-02.26.18:927][681]LogModuleManager: Shutting down and abandoning module AlembicLibrary (295)
+[2017.06.14-02.26.18:928][681]LogModuleManager: Shutting down and abandoning module GeometryCache (294)
+[2017.06.14-02.26.18:928][681]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (293)
+[2017.06.14-02.26.18:928][681]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (288)
+[2017.06.14-02.26.18:928][681]LogModuleManager: Shutting down and abandoning module SuperSearch (287)
+[2017.06.14-02.26.18:929][681]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (284)
+[2017.06.14-02.26.18:929][681]LogModuleManager: Shutting down and abandoning module PluginBrowser (282)
+[2017.06.14-02.26.18:933][681]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (280)
+[2017.06.14-02.26.18:936][681]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (278)
+[2017.06.14-02.26.18:936][681]LogModuleManager: Shutting down and abandoning module DesktopPlatform (277)
+[2017.06.14-02.26.18:937][681]LogModuleManager: Shutting down and abandoning module UObjectPlugin (274)
+[2017.06.14-02.26.18:937][681]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (272)
+[2017.06.14-02.26.18:939][681]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (270)
+[2017.06.14-02.26.18:942][681]LogModuleManager: Shutting down and abandoning module GitSourceControl (268)
+[2017.06.14-02.26.18:944][681]LogModuleManager: Shutting down and abandoning module SourceControl (267)
+[2017.06.14-02.26.18:947][681]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (264)
+[2017.06.14-02.26.18:947][681]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (262)
+[2017.06.14-02.26.18:947][681]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (260)
+[2017.06.14-02.26.18:948][681]LogModuleManager: Shutting down and abandoning module Paper2DEditor (258)
+[2017.06.14-02.26.18:949][681]LogModuleManager: Shutting down and abandoning module MeshPaint (257)
+[2017.06.14-02.26.18:950][681]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2017.06.14-02.26.18:955][681]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2017.06.14-02.26.18:956][681]LogModuleManager: Shutting down and abandoning module MainFrame (252)
+[2017.06.14-02.26.18:957][681]LogModuleManager: Shutting down and abandoning module HotReload (251)
+[2017.06.14-02.26.18:958][681]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (246)
+[2017.06.14-02.26.18:958][681]LogModuleManager: Shutting down and abandoning module PhysXVehicles (244)
+[2017.06.14-02.26.18:958][681]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (242)
+[2017.06.14-02.26.18:958][681]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (240)
+[2017.06.14-02.26.18:958][681]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (238)
+[2017.06.14-02.26.18:959][681]LogModuleManager: Shutting down and abandoning module UdpMessaging (236)
+[2017.06.14-02.26.19:060][681]LogModuleManager: Shutting down and abandoning module TcpMessaging (234)
+[2017.06.14-02.26.19:162][681]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (232)
+[2017.06.14-02.26.19:165][681]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (230)
+[2017.06.14-02.26.19:166][681]LogModuleManager: Shutting down and abandoning module FacialAnimation (228)
+[2017.06.14-02.26.19:166][681]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (226)
+[2017.06.14-02.26.19:168][681]LogModuleManager: Shutting down and abandoning module GraphEditor (225)
+[2017.06.14-02.26.19:168][681]LogModuleManager: Shutting down and abandoning module ContentBrowser (223)
+[2017.06.14-02.26.19:171][681]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (220)
+[2017.06.14-02.26.19:171][681]LogModuleManager: Shutting down and abandoning module Paper2D (218)
+[2017.06.14-02.26.19:172][681]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (216)
+[2017.06.14-02.26.19:172][681]LogModuleManager: Shutting down and abandoning module WmfMedia (214)
+[2017.06.14-02.26.19:173][681]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (212)
+[2017.06.14-02.26.19:174][681]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (210)
+[2017.06.14-02.26.19:176][681]LogModuleManager: Shutting down and abandoning module MediaAssets (208)
+[2017.06.14-02.26.19:176][681]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (206)
+[2017.06.14-02.26.19:176][681]LogModuleManager: Shutting down and abandoning module VREditor (204)
+[2017.06.14-02.26.19:178][681]LogModuleManager: Shutting down and abandoning module StringTableEditor (202)
+[2017.06.14-02.26.19:179][681]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (200)
+[2017.06.14-02.26.19:179][681]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (198)
+[2017.06.14-02.26.19:181][681]LogModuleManager: Shutting down and abandoning module FunctionalTesting (196)
+[2017.06.14-02.26.19:182][681]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (194)
+[2017.06.14-02.26.19:184][681]LogModuleManager: Shutting down and abandoning module UMG (192)
+[2017.06.14-02.26.19:186][681]LogModuleManager: Shutting down and abandoning module UMGEditor (191)
+[2017.06.14-02.26.19:189][681]LogModuleManager: Shutting down and abandoning module Sequencer (190)
+[2017.06.14-02.26.19:193][681]LogModuleManager: Shutting down and abandoning module AssetTools (188)
+[2017.06.14-02.26.19:194][681]LogModuleManager: Shutting down and abandoning module MessageLog (187)
+[2017.06.14-02.26.19:194][681]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (186)
+[2017.06.14-02.26.19:196][681]LogModuleManager: Shutting down and abandoning module SlateReflector (180)
+[2017.06.14-02.26.19:199][681]LogModuleManager: Shutting down and abandoning module Slate (178)
+[2017.06.14-02.26.19:199][681]LogModuleManager: Shutting down and abandoning module EditorStyle (176)
+[2017.06.14-02.26.19:209][681]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (174)
+[2017.06.14-02.26.19:209][681]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (172)
+[2017.06.14-02.26.19:209][681]LogModuleManager: Shutting down and abandoning module XAudio2 (170)
+[2017.06.14-02.26.19:209][681]LogModuleManager: Shutting down and abandoning module Networking (168)
+[2017.06.14-02.26.19:210][681]LogModuleManager: Shutting down and abandoning module Core (164)
+[2017.06.14-02.26.19:210][681]LogModuleManager: Shutting down and abandoning module AssetRegistry (162)
+[2017.06.14-02.26.19:382][681]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.06.14-02.26.19:382][681]LogDirectoryWatcher: A directory notification for 'E:/unreal/Pinball/Content/' was aborted.
+[2017.06.14-02.26.19:382][681]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.06.14-02.26.19:382][681]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/GearVR/Content/' was aborted.
+[2017.06.14-02.26.19:392][681]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (161)
+[2017.06.14-02.26.19:397][681]LogModuleManager: Shutting down and abandoning module KismetCompiler (158)
+[2017.06.14-02.26.19:397][681]LogModuleManager: Shutting down and abandoning module LevelSequence (156)
+[2017.06.14-02.26.19:397][681]LogModuleManager: Shutting down and abandoning module PhysXFormats (154)
+[2017.06.14-02.26.19:398][681]LogModuleManager: Shutting down and abandoning module MeshUtilities (152)
+[2017.06.14-02.26.19:399][681]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (151)
+[2017.06.14-02.26.19:400][681]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (149)
+[2017.06.14-02.26.19:400][681]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (147)
+[2017.06.14-02.26.19:401][681]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.06.14-02.26.19:429][681]LogDerivedDataCache: Shutdown
+[2017.06.14-02.26.19:429][681]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.06.14-02.26.19:430][681]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.06.14-02.26.19:431][681]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.06.14-02.26.19:433][681]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.06.14-02.26.19:434][681]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.06.14-02.26.19:435][681]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.06.14-02.26.19:436][681]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.06.14-02.26.19:436][681]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.06.14-02.26.19:436][681]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.06.14-02.26.19:437][681]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.06.14-02.26.19:439][681]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.06.14-02.26.19:440][681]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.06.14-02.26.19:440][681]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.06.14-02.26.19:441][681]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.06.14-02.26.19:441][681]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.06.14-02.26.19:441][681]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.06.14-02.26.19:441][681]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.06.14-02.26.19:441][681]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.06.14-02.26.19:441][681]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.06.14-02.26.19:442][681]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.06.14-02.26.19:442][681]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.06.14-02.26.19:443][681]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.06.14-02.26.19:443][681]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.06.14-02.26.19:443][681]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.06.14-02.26.19:443][681]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.06.14-02.26.19:443][681]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.06.14-02.26.19:443][681]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.06.14-02.26.19:443][681]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.06.14-02.26.19:444][681]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.06.14-02.26.19:444][681]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.06.14-02.26.19:444][681]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.06.14-02.26.19:444][681]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.06.14-02.26.19:445][681]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.06.14-02.26.19:445][681]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.06.14-02.26.19:445][681]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.06.14-02.26.19:445][681]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.06.14-02.26.19:445][681]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.06.14-02.26.19:445][681]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.06.14-02.26.19:446][681]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.06.14-02.26.19:446][681]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.06.14-02.26.19:446][681]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.06.14-02.26.19:446][681]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.06.14-02.26.19:446][681]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.06.14-02.26.19:446][681]LogModuleManager: Shutting down and abandoning module OculusRift (56)
+[2017.06.14-02.26.19:447][681]LogModuleManager: Shutting down and abandoning module GearVRController (54)
+[2017.06.14-02.26.19:447][681]LogModuleManager: Shutting down and abandoning module GearVR (52)
+[2017.06.14-02.26.19:447][681]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.06.14-02.26.19:447][681]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.06.14-02.26.19:447][681]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.06.14-02.26.19:448][681]LogOnline:Display: Unloading online subsystem: NULL
+[2017.06.14-02.26.19:451][681]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.06.14-02.26.19:456][681]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.06.14-02.26.19:456][681]LogHttp:Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2017.06.14-02.26.19:456][681]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B82A4EF12-4033-91B5-3542-8C83B6B39C01%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.16.1-3466753%2B%2B%2BUE4%2BRelease-4.16&UserID=7f4fade24d86dd8f8c81cca3790c139a%7C98b3b999d92d48dcbd923f9cfdd449a2%7Cd9d57a35-d62e-42dc-a35a-0e70e722980a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.06.14-02.26.19:456][681]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B82A4EF12-4033-91B5-3542-8C83B6B39C01%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.16.1-3466753%2B%2B%2BUE4%2BRelease-4.16&UserID=7f4fade24d86dd8f8c81cca3790c139a%7C98b3b999d92d48dcbd923f9cfdd449a2%7Cd9d57a35-d62e-42dc-a35a-0e70e722980a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.06.14-02.26.19:480][681]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.06.14-02.26.19:486][681]LogModuleManager: Shutting down and abandoning module HTTPChunkInstaller (36)
+[2017.06.14-02.26.19:488][681]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2017.06.14-02.26.19:490][681]LogModuleManager: Shutting down and abandoning module PropertyEditor (33)
+[2017.06.14-02.26.19:491][681]LogModuleManager: Shutting down and abandoning module AudioEditor (30)
+[2017.06.14-02.26.19:491][681]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2017.06.14-02.26.19:493][681]LogModuleManager: Shutting down and abandoning module ShaderCore (26)
+[2017.06.14-02.26.19:493][681]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2017.06.14-02.26.19:493][681]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2017.06.14-02.26.19:506][681]LogModuleManager: Shutting down and abandoning module OpenGLDrv (20)
+[2017.06.14-02.26.19:507][681]LogModuleManager: Shutting down and abandoning module D3D11RHI (18)
+[2017.06.14-02.26.19:507][681]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (16)
+[2017.06.14-02.26.19:507][681]LogModuleManager: Shutting down and abandoning module Renderer (14)
+[2017.06.14-02.26.19:507][681]LogModuleManager: Shutting down and abandoning module Engine (12)
+[2017.06.14-02.26.19:507][681]LogModuleManager: Shutting down and abandoning module CoreUObject (10)
+[2017.06.14-02.26.19:507][681]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2017.06.14-02.26.19:508][681]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.06.14-02.26.19:509][681]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.06.14-02.26.19:509][681]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.06.14-02.26.19:515][681]LogExit: Exiting.
+[2017.06.14-02.26.19:534][681]Log file closed, 06/13/17 23:26:19
